@@ -1,0 +1,4933 @@
+{
+  "source": "https://docs.polymarket.com",
+  "generatedAt": "2026-11-16T07:23:02.578Z",
+  "total": 547,
+  "downloaded": 547,
+  "failed": 0,
+  "rewrittenFiles": 0,
+  "pages": [
+    {
+      "url": "https://docs.polymarket.com/api-reference/account/get-rate-limit-tier",
+      "path": "api-reference/account/get-rate-limit-tier.md",
+      "title": "Get rate limit tier",
+      "section": "API Referansı",
+      "bytes": 6345,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/apply-referral-code",
+      "path": "api-reference/apply-referral-code.md",
+      "title": "Apply Referral Code",
+      "section": "API Referansı",
+      "bytes": 6901,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/approve-or-revoke-builder-fees-with-an-account-owner-signature",
+      "path": "api-reference/approve-or-revoke-builder-fees-with-an-account-owner-signature.md",
+      "title": "Approve or revoke builder fees with an account owner signature",
+      "section": "API Referansı",
+      "bytes": 11581,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/boards/get-builder-volume-over-time",
+      "path": "api-reference/boards/get-builder-volume-over-time.md",
+      "title": "Get builder volume over time",
+      "section": "API Referansı",
+      "bytes": 13288,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/boards/get-the-builders-leaderboard",
+      "path": "api-reference/boards/get-the-builders-leaderboard.md",
+      "title": "Get the builders leaderboard",
+      "section": "API Referansı",
+      "bytes": 13875,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/boards/get-the-trader-leaderboard",
+      "path": "api-reference/boards/get-the-trader-leaderboard.md",
+      "title": "Get the trader leaderboard",
+      "section": "API Referansı",
+      "bytes": 19310,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/boards/list-the-biggest-wins",
+      "path": "api-reference/boards/list-the-biggest-wins.md",
+      "title": "List the biggest wins",
+      "section": "API Referansı",
+      "bytes": 15056,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/bridge/create-bridge-addresses",
+      "path": "api-reference/bridge/create-bridge-addresses.md",
+      "title": "Create bridge addresses",
+      "section": "API Referansı",
+      "bytes": 3975,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/bridge/create-withdrawal-addresses",
+      "path": "api-reference/bridge/create-withdrawal-addresses.md",
+      "title": "Create withdrawal addresses",
+      "section": "API Referansı",
+      "bytes": 5101,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/bridge/get-a-quote",
+      "path": "api-reference/bridge/get-a-quote.md",
+      "title": "Get a quote",
+      "section": "API Referansı",
+      "bytes": 6943,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/bridge/get-supported-assets",
+      "path": "api-reference/bridge/get-supported-assets.md",
+      "title": "Get supported assets",
+      "section": "API Referansı",
+      "bytes": 2489,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/bridge/get-transaction-status",
+      "path": "api-reference/bridge/get-transaction-status.md",
+      "title": "Get transaction status",
+      "section": "API Referansı",
+      "bytes": 8737,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/cancel-all-orders",
+      "path": "api-reference/cancel-all-orders.md",
+      "title": "Cancel All Orders",
+      "section": "API Referansı",
+      "bytes": 7621,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/cancel-orders-coid",
+      "path": "api-reference/cancel-orders-coid.md",
+      "title": "Cancel Orders COID",
+      "section": "API Referansı",
+      "bytes": 9074,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/cancel-orders",
+      "path": "api-reference/cancel-orders.md",
+      "title": "Cancel Orders",
+      "section": "API Referansı",
+      "bytes": 8954,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/check-invite-code",
+      "path": "api-reference/check-invite-code.md",
+      "title": "Check Invite Code",
+      "section": "API Referansı",
+      "bytes": 5253,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/combo-markets/get-combo-markets",
+      "path": "api-reference/combo-markets/get-combo-markets.md",
+      "title": "Get combo markets",
+      "section": "API Referansı",
+      "bytes": 5920,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/comments/get-comments-by-comment-id",
+      "path": "api-reference/comments/get-comments-by-comment-id.md",
+      "title": "Get comments by comment id",
+      "section": "API Referansı",
+      "bytes": 5156,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/comments/get-comments-by-user-address",
+      "path": "api-reference/comments/get-comments-by-user-address.md",
+      "title": "Get comments by user address",
+      "section": "API Referansı",
+      "bytes": 5793,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/comments/list-comments",
+      "path": "api-reference/comments/list-comments.md",
+      "title": "List comments",
+      "section": "API Referansı",
+      "bytes": 6036,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/create-account-invite",
+      "path": "api-reference/create-account-invite.md",
+      "title": "Create Account Invite",
+      "section": "API Referansı",
+      "bytes": 7369,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/create-orders",
+      "path": "api-reference/create-orders.md",
+      "title": "Create Orders",
+      "section": "API Referansı",
+      "bytes": 11236,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/create-proxy",
+      "path": "api-reference/create-proxy.md",
+      "title": "Create Proxy",
+      "section": "API Referansı",
+      "bytes": 9407,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/data-api/overview",
+      "path": "api-reference/data-api/overview.md",
+      "title": "Data API v2",
+      "section": "API Referansı",
+      "bytes": 10015,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/data/get-midpoint-price",
+      "path": "api-reference/data/get-midpoint-price.md",
+      "title": "Get midpoint price",
+      "section": "API Referansı",
+      "bytes": 3020,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/data/get-server-time",
+      "path": "api-reference/data/get-server-time.md",
+      "title": "Get server time",
+      "section": "API Referansı",
+      "bytes": 2224,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/delete-proxy",
+      "path": "api-reference/delete-proxy.md",
+      "title": "Delete Proxy",
+      "section": "API Referansı",
+      "bytes": 8142,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/events/get-event-by-id",
+      "path": "api-reference/events/get-event-by-id.md",
+      "title": "Get event by id",
+      "section": "API Referansı",
+      "bytes": 27902,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/events/get-event-by-slug",
+      "path": "api-reference/events/get-event-by-slug.md",
+      "title": "Get event by slug",
+      "section": "API Referansı",
+      "bytes": 27931,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/events/get-event-tags",
+      "path": "api-reference/events/get-event-tags.md",
+      "title": "Get event tags",
+      "section": "API Referansı",
+      "bytes": 2625,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/events/list-events-keyset-pagination",
+      "path": "api-reference/events/list-events-keyset-pagination.md",
+      "title": "List events (keyset pagination)",
+      "section": "API Referansı",
+      "bytes": 36063,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/events/list-events",
+      "path": "api-reference/events/list-events.md",
+      "title": "List events",
+      "section": "API Referansı",
+      "bytes": 30855,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/feeds/list-account-activity",
+      "path": "api-reference/feeds/list-account-activity.md",
+      "title": "List account activity",
+      "section": "API Referansı",
+      "bytes": 20288,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/feeds/list-combo-activity",
+      "path": "api-reference/feeds/list-combo-activity.md",
+      "title": "List combo activity",
+      "section": "API Referansı",
+      "bytes": 19133,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/feeds/list-trades",
+      "path": "api-reference/feeds/list-trades.md",
+      "title": "List trades",
+      "section": "API Referansı",
+      "bytes": 16842,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/geoblock",
+      "path": "api-reference/geoblock.md",
+      "title": "Geographic Restrictions",
+      "section": "API Referansı",
+      "bytes": 5786,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-account-backstop-transfers",
+      "path": "api-reference/get-account-backstop-transfers.md",
+      "title": "Get Account Backstop Transfers",
+      "section": "API Referansı",
+      "bytes": 14050,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-account-limits",
+      "path": "api-reference/get-account-limits.md",
+      "title": "Get Account Limits",
+      "section": "API Referansı",
+      "bytes": 7957,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-account-referral",
+      "path": "api-reference/get-account-referral.md",
+      "title": "Get Account Referral",
+      "section": "API Referansı",
+      "bytes": 7455,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-account-rewards",
+      "path": "api-reference/get-account-rewards.md",
+      "title": "Get Account Rewards",
+      "section": "API Referansı",
+      "bytes": 10376,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-account-stats",
+      "path": "api-reference/get-account-stats.md",
+      "title": "Get Account Stats",
+      "section": "API Referansı",
+      "bytes": 7171,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-authenticated-builder-receipts",
+      "path": "api-reference/get-authenticated-builder-receipts.md",
+      "title": "Get authenticated builder receipts",
+      "section": "API Referansı",
+      "bytes": 16646,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-authenticated-builder-settled-earnings-summary",
+      "path": "api-reference/get-authenticated-builder-settled-earnings-summary.md",
+      "title": "Get authenticated builder settled earnings summary",
+      "section": "API Referansı",
+      "bytes": 13285,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-auto-cancel-status",
+      "path": "api-reference/get-auto-cancel-status.md",
+      "title": "Get Auto-Cancel Status",
+      "section": "API Referansı",
+      "bytes": 6866,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-balances",
+      "path": "api-reference/get-balances.md",
+      "title": "Get Balances",
+      "section": "API Referansı",
+      "bytes": 5786,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-bbo",
+      "path": "api-reference/get-bbo.md",
+      "title": "Get BBO",
+      "section": "API Referansı",
+      "bytes": 6551,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-book",
+      "path": "api-reference/get-book.md",
+      "title": "Get Book",
+      "section": "API Referansı",
+      "bytes": 6604,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-builder-profile-and-eligibility",
+      "path": "api-reference/get-builder-profile-and-eligibility.md",
+      "title": "Get builder profile and eligibility",
+      "section": "API Referansı",
+      "bytes": 21152,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-collateral-assets",
+      "path": "api-reference/get-collateral-assets.md",
+      "title": "Get Collateral Assets",
+      "section": "API Referansı",
+      "bytes": 5290,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-credentials",
+      "path": "api-reference/get-credentials.md",
+      "title": "Get Credentials",
+      "section": "API Referansı",
+      "bytes": 7021,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-current-position-fills",
+      "path": "api-reference/get-current-position-fills.md",
+      "title": "Get Current Position Fills",
+      "section": "API Referansı",
+      "bytes": 19593,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-deposits",
+      "path": "api-reference/get-deposits.md",
+      "title": "Get Deposits",
+      "section": "API Referansı",
+      "bytes": 9558,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-equity",
+      "path": "api-reference/get-equity.md",
+      "title": "Get Equity",
+      "section": "API Referansı",
+      "bytes": 8814,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-exchange-info",
+      "path": "api-reference/get-exchange-info.md",
+      "title": "Get Exchange Info",
+      "section": "API Referansı",
+      "bytes": 5678,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-exchange-statistics",
+      "path": "api-reference/get-exchange-statistics.md",
+      "title": "Get Exchange Statistics",
+      "section": "API Referansı",
+      "bytes": 12012,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-fees",
+      "path": "api-reference/get-fees.md",
+      "title": "Get Fees",
+      "section": "API Referansı",
+      "bytes": 6193,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-fills",
+      "path": "api-reference/get-fills.md",
+      "title": "Get Fills",
+      "section": "API Referansı",
+      "bytes": 16782,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-funding-charges",
+      "path": "api-reference/get-funding-charges.md",
+      "title": "Get Funding Charges",
+      "section": "API Referansı",
+      "bytes": 8986,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-historical-funding",
+      "path": "api-reference/get-historical-funding.md",
+      "title": "Get Historical Funding",
+      "section": "API Referansı",
+      "bytes": 6798,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-index",
+      "path": "api-reference/get-index.md",
+      "title": "Get Index",
+      "section": "API Referansı",
+      "bytes": 7133,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-instrument-config",
+      "path": "api-reference/get-instrument-config.md",
+      "title": "Get Instrument Config",
+      "section": "API Referansı",
+      "bytes": 7908,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-instruments",
+      "path": "api-reference/get-instruments.md",
+      "title": "Get Instruments",
+      "section": "API Referansı",
+      "bytes": 13319,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-internal-transfers",
+      "path": "api-reference/get-internal-transfers.md",
+      "title": "Get Internal Transfers",
+      "section": "API Referansı",
+      "bytes": 8880,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-klines",
+      "path": "api-reference/get-klines.md",
+      "title": "Get Klines",
+      "section": "API Referansı",
+      "bytes": 7075,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-leaderboard",
+      "path": "api-reference/get-leaderboard.md",
+      "title": "Get Leaderboard",
+      "section": "API Referansı",
+      "bytes": 19508,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-limit-tiers",
+      "path": "api-reference/get-limit-tiers.md",
+      "title": "Get Limit Tiers",
+      "section": "API Referansı",
+      "bytes": 6514,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-mark-price-history",
+      "path": "api-reference/get-mark-price-history.md",
+      "title": "Get Mark Price History",
+      "section": "API Referansı",
+      "bytes": 7505,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-notifications",
+      "path": "api-reference/get-notifications.md",
+      "title": "Get Notifications",
+      "section": "API Referansı",
+      "bytes": 10811,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-open-orders",
+      "path": "api-reference/get-open-orders.md",
+      "title": "Get Open Orders",
+      "section": "API Referansı",
+      "bytes": 12157,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-orders",
+      "path": "api-reference/get-orders.md",
+      "title": "Get Orders",
+      "section": "API Referansı",
+      "bytes": 13606,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-pnl",
+      "path": "api-reference/get-pnl.md",
+      "title": "Get PnL",
+      "section": "API Referansı",
+      "bytes": 9070,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-portfolio",
+      "path": "api-reference/get-portfolio.md",
+      "title": "Get Portfolio",
+      "section": "API Referansı",
+      "bytes": 12364,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-position-share-card-snapshots",
+      "path": "api-reference/get-position-share-card-snapshots.md",
+      "title": "Get Position Share Card Snapshots",
+      "section": "API Referansı",
+      "bytes": 21081,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-public-fills",
+      "path": "api-reference/get-public-fills.md",
+      "title": "Get Public Fills",
+      "section": "API Referansı",
+      "bytes": 23229,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-public-portfolio",
+      "path": "api-reference/get-public-portfolio.md",
+      "title": "Get Public Portfolio",
+      "section": "API Referansı",
+      "bytes": 7266,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-recent-trades",
+      "path": "api-reference/get-recent-trades.md",
+      "title": "Get Recent Trades",
+      "section": "API Referansı",
+      "bytes": 8084,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-registration",
+      "path": "api-reference/get-registration.md",
+      "title": "Get Registration",
+      "section": "API Referansı",
+      "bytes": 5763,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-server-time",
+      "path": "api-reference/get-server-time.md",
+      "title": "Get Server Time",
+      "section": "API Referansı",
+      "bytes": 4399,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-statistics",
+      "path": "api-reference/get-statistics.md",
+      "title": "Get Statistics",
+      "section": "API Referansı",
+      "bytes": 6214,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-tickers",
+      "path": "api-reference/get-tickers.md",
+      "title": "Get Tickers",
+      "section": "API Referansı",
+      "bytes": 6670,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-trading-competition-account",
+      "path": "api-reference/get-trading-competition-account.md",
+      "title": "Get Trading Competition Account",
+      "section": "API Referansı",
+      "bytes": 15749,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-trading-competition-leaderboard",
+      "path": "api-reference/get-trading-competition-leaderboard.md",
+      "title": "Get Trading Competition Leaderboard",
+      "section": "API Referansı",
+      "bytes": 16262,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-trading-competition-widget",
+      "path": "api-reference/get-trading-competition-widget.md",
+      "title": "Get Trading Competition Widget",
+      "section": "API Referansı",
+      "bytes": 10570,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-trading-competition",
+      "path": "api-reference/get-trading-competition.md",
+      "title": "Get Trading Competition",
+      "section": "API Referansı",
+      "bytes": 15090,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-trading-competitions",
+      "path": "api-reference/get-trading-competitions.md",
+      "title": "Get Trading Competitions",
+      "section": "API Referansı",
+      "bytes": 12158,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/get-withdrawals",
+      "path": "api-reference/get-withdrawals.md",
+      "title": "Get Withdrawals",
+      "section": "API Referansı",
+      "bytes": 9793,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/internal-transfer",
+      "path": "api-reference/internal-transfer.md",
+      "title": "Internal Transfer",
+      "section": "API Referansı",
+      "bytes": 13167,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/live-data/overview",
+      "path": "api-reference/live-data/overview.md",
+      "title": "PolyBolt WebSocket",
+      "section": "API Referansı",
+      "bytes": 12994,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/maker/cancel-a-quote",
+      "path": "api-reference/maker/cancel-a-quote.md",
+      "title": "Cancel a quote",
+      "section": "API Referansı",
+      "bytes": 12028,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/maker/confirm-or-decline-last-look",
+      "path": "api-reference/maker/confirm-or-decline-last-look.md",
+      "title": "Confirm or decline last look",
+      "section": "API Referansı",
+      "bytes": 18627,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/maker/submit-a-quote",
+      "path": "api-reference/maker/submit-a-quote.md",
+      "title": "Submit a quote",
+      "section": "API Referansı",
+      "bytes": 15786,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/mark-notifications-read",
+      "path": "api-reference/mark-notifications-read.md",
+      "title": "Mark Notifications Read",
+      "section": "API Referansı",
+      "bytes": 8018,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate-by-path-parameter",
+      "path": "api-reference/market-data/get-fee-rate-by-path-parameter.md",
+      "title": "Get fee rate by path parameter",
+      "section": "API Referansı",
+      "bytes": 3259,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-fee-rate",
+      "path": "api-reference/market-data/get-fee-rate.md",
+      "title": "Get fee rate",
+      "section": "API Referansı",
+      "bytes": 3290,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-price",
+      "path": "api-reference/market-data/get-last-trade-price.md",
+      "title": "Get last trade price",
+      "section": "API Referansı",
+      "bytes": 3303,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-query-parameters",
+      "path": "api-reference/market-data/get-last-trade-prices-query-parameters.md",
+      "title": "Get last trade prices (query parameters)",
+      "section": "API Referansı",
+      "bytes": 4097,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-last-trade-prices-request-body",
+      "path": "api-reference/market-data/get-last-trade-prices-request-body.md",
+      "title": "Get last trade prices (request body)",
+      "section": "API Referansı",
+      "bytes": 4560,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-price",
+      "path": "api-reference/market-data/get-market-price.md",
+      "title": "Get market price",
+      "section": "API Referansı",
+      "bytes": 3866,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-query-parameters",
+      "path": "api-reference/market-data/get-market-prices-query-parameters.md",
+      "title": "Get market prices (query parameters)",
+      "section": "API Referansı",
+      "bytes": 3885,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-market-prices-request-body",
+      "path": "api-reference/market-data/get-market-prices-request-body.md",
+      "title": "Get market prices (request body)",
+      "section": "API Referansı",
+      "bytes": 4270,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-query-parameters",
+      "path": "api-reference/market-data/get-midpoint-prices-query-parameters.md",
+      "title": "Get midpoint prices (query parameters)",
+      "section": "API Referansı",
+      "bytes": 3072,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-midpoint-prices-request-body",
+      "path": "api-reference/market-data/get-midpoint-prices-request-body.md",
+      "title": "Get midpoint prices (request body)",
+      "section": "API Referansı",
+      "bytes": 3554,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-order-book",
+      "path": "api-reference/market-data/get-order-book.md",
+      "title": "Get order book",
+      "section": "API Referansı",
+      "bytes": 5621,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-order-books-request-body",
+      "path": "api-reference/market-data/get-order-books-request-body.md",
+      "title": "Get order books (request body)",
+      "section": "API Referansı",
+      "bytes": 5456,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-spread",
+      "path": "api-reference/market-data/get-spread.md",
+      "title": "Get spread",
+      "section": "API Referansı",
+      "bytes": 2942,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-spreads",
+      "path": "api-reference/market-data/get-spreads.md",
+      "title": "Get spreads",
+      "section": "API Referansı",
+      "bytes": 3397,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size-by-path-parameter",
+      "path": "api-reference/market-data/get-tick-size-by-path-parameter.md",
+      "title": "Get tick size by path parameter",
+      "section": "API Referansı",
+      "bytes": 3327,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/market-data/get-tick-size",
+      "path": "api-reference/market-data/get-tick-size.md",
+      "title": "Get tick size",
+      "section": "API Referansı",
+      "bytes": 3368,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-a-tokens-price-history",
+      "path": "api-reference/markets/get-a-tokens-price-history.md",
+      "title": "Get a token's price history",
+      "section": "API Referansı",
+      "bytes": 22688,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-batch-prices-history",
+      "path": "api-reference/markets/get-batch-prices-history.md",
+      "title": "Get batch prices history",
+      "section": "API Referansı",
+      "bytes": 3939,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-clob-market-info",
+      "path": "api-reference/markets/get-clob-market-info.md",
+      "title": "Get CLOB market info",
+      "section": "API Referansı",
+      "bytes": 5634,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-live-volume-for-an-event",
+      "path": "api-reference/markets/get-live-volume-for-an-event.md",
+      "title": "Get live volume for an event",
+      "section": "API Referansı",
+      "bytes": 12693,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-id",
+      "path": "api-reference/markets/get-market-by-id.md",
+      "title": "Get market by id",
+      "section": "API Referansı",
+      "bytes": 27812,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-slug",
+      "path": "api-reference/markets/get-market-by-slug.md",
+      "title": "Get market by slug",
+      "section": "API Referansı",
+      "bytes": 27841,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-by-token",
+      "path": "api-reference/markets/get-market-by-token.md",
+      "title": "Get market by token",
+      "section": "API Referansı",
+      "bytes": 3820,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-market-tags-by-id",
+      "path": "api-reference/markets/get-market-tags-by-id.md",
+      "title": "Get market tags by id",
+      "section": "API Referansı",
+      "bytes": 2644,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-open-interest",
+      "path": "api-reference/markets/get-open-interest.md",
+      "title": "Get open interest",
+      "section": "API Referansı",
+      "bytes": 11554,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-prices-history",
+      "path": "api-reference/markets/get-prices-history.md",
+      "title": "Get prices history",
+      "section": "API Referansı",
+      "bytes": 3716,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-resolution-state",
+      "path": "api-reference/markets/get-resolution-state.md",
+      "title": "Get resolution state",
+      "section": "API Referansı",
+      "bytes": 16867,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-markets",
+      "path": "api-reference/markets/get-sampling-markets.md",
+      "title": "Get sampling markets",
+      "section": "API Referansı",
+      "bytes": 4190,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-sampling-simplified-markets",
+      "path": "api-reference/markets/get-sampling-simplified-markets.md",
+      "title": "Get sampling simplified markets",
+      "section": "API Referansı",
+      "bytes": 3043,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/get-simplified-markets",
+      "path": "api-reference/markets/get-simplified-markets.md",
+      "title": "Get simplified markets",
+      "section": "API Referansı",
+      "bytes": 2999,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/list-a-markets-top-holders",
+      "path": "api-reference/markets/list-a-markets-top-holders.md",
+      "title": "List a market's top holders",
+      "section": "API Referansı",
+      "bytes": 19843,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/list-markets-keyset-pagination",
+      "path": "api-reference/markets/list-markets-keyset-pagination.md",
+      "title": "List markets (keyset pagination)",
+      "section": "API Referansı",
+      "bytes": 34821,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/list-markets",
+      "path": "api-reference/markets/list-markets.md",
+      "title": "List markets",
+      "section": "API Referansı",
+      "bytes": 31452,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/markets/look-up-tokens",
+      "path": "api-reference/markets/look-up-tokens.md",
+      "title": "Look up tokens",
+      "section": "API Referansı",
+      "bytes": 20405,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/modify-orders-coid",
+      "path": "api-reference/modify-orders-coid.md",
+      "title": "Modify Orders COID",
+      "section": "API Referansı",
+      "bytes": 12608,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/modify-orders",
+      "path": "api-reference/modify-orders.md",
+      "title": "Modify Orders",
+      "section": "API Referansı",
+      "bytes": 12535,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/perps/geographic-restrictions",
+      "path": "api-reference/perps/geographic-restrictions.md",
+      "title": "Geographic Restrictions",
+      "section": "API Referansı",
+      "bytes": 1207,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/perps/overview",
+      "path": "api-reference/perps/overview.md",
+      "title": "Overview",
+      "section": "API Referansı",
+      "bytes": 2144,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/perps/rate-limits",
+      "path": "api-reference/perps/rate-limits.md",
+      "title": "Rate Limits",
+      "section": "API Referansı",
+      "bytes": 3548,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/predictions/overview",
+      "path": "api-reference/predictions/overview.md",
+      "title": "Overview",
+      "section": "API Referansı",
+      "bytes": 1462,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/profiles/get-public-profile-by-wallet-address",
+      "path": "api-reference/profiles/get-public-profile-by-wallet-address.md",
+      "title": "Get public profile by wallet address",
+      "section": "API Referansı",
+      "bytes": 4543,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rate-limits",
+      "path": "api-reference/rate-limits.md",
+      "title": "Rate Limits",
+      "section": "API Referansı",
+      "bytes": 3533,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/read-builder-approvals-including-retained-revoked-versions",
+      "path": "api-reference/read-builder-approvals-including-retained-revoked-versions.md",
+      "title": "Read builder approvals, including retained revoked versions",
+      "section": "API Referansı",
+      "bytes": 10522,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rebates/get-current-rebated-fees-for-a-maker",
+      "path": "api-reference/rebates/get-current-rebated-fees-for-a-maker.md",
+      "title": "Get current rebated fees for a maker",
+      "section": "API Referansı",
+      "bytes": 5054,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer-api-keys/get-all-relayer-api-keys",
+      "path": "api-reference/relayer-api-keys/get-all-relayer-api-keys.md",
+      "title": "Get all relayer API keys",
+      "section": "API Referansı",
+      "bytes": 4282,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/check-if-a-wallet-is-deployed",
+      "path": "api-reference/relayer/check-if-a-wallet-is-deployed.md",
+      "title": "Check if a wallet is deployed",
+      "section": "API Referansı",
+      "bytes": 3898,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-a-transaction-by-id",
+      "path": "api-reference/relayer/get-a-transaction-by-id.md",
+      "title": "Get a transaction by ID",
+      "section": "API Referansı",
+      "bytes": 6922,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-current-nonce-for-a-user",
+      "path": "api-reference/relayer/get-current-nonce-for-a-user.md",
+      "title": "Get current nonce for a user",
+      "section": "API Referansı",
+      "bytes": 3272,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-recent-transactions-for-a-user",
+      "path": "api-reference/relayer/get-recent-transactions-for-a-user.md",
+      "title": "Get recent transactions for a user",
+      "section": "API Referansı",
+      "bytes": 9041,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/get-relayer-address-and-nonce",
+      "path": "api-reference/relayer/get-relayer-address-and-nonce.md",
+      "title": "Get relayer address and nonce",
+      "section": "API Referansı",
+      "bytes": 3569,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/relayer/submit-a-transaction",
+      "path": "api-reference/relayer/submit-a-transaction.md",
+      "title": "Submit a transaction",
+      "section": "API Referansı",
+      "bytes": 9228,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-current-active-rewards-configurations",
+      "path": "api-reference/rewards/get-current-active-rewards-configurations.md",
+      "title": "Get current active rewards configurations",
+      "section": "API Referansı",
+      "bytes": 7283,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-earnings-for-user-by-date",
+      "path": "api-reference/rewards/get-earnings-for-user-by-date.md",
+      "title": "Get earnings for user by date",
+      "section": "API Referansı",
+      "bytes": 7695,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-multiple-markets-with-rewards",
+      "path": "api-reference/rewards/get-multiple-markets-with-rewards.md",
+      "title": "Get multiple markets with rewards",
+      "section": "API Referansı",
+      "bytes": 12634,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-raw-rewards-for-a-specific-market",
+      "path": "api-reference/rewards/get-raw-rewards-for-a-specific-market.md",
+      "title": "Get raw rewards for a specific market",
+      "section": "API Referansı",
+      "bytes": 9230,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-reward-percentages-for-user",
+      "path": "api-reference/rewards/get-reward-percentages-for-user.md",
+      "title": "Get reward percentages for user",
+      "section": "API Referansı",
+      "bytes": 5243,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-total-earnings-for-user-by-date",
+      "path": "api-reference/rewards/get-total-earnings-for-user-by-date.md",
+      "title": "Get total earnings for user by date",
+      "section": "API Referansı",
+      "bytes": 7060,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rewards/get-user-earnings-and-markets-configuration",
+      "path": "api-reference/rewards/get-user-earnings-and-markets-configuration.md",
+      "title": "Get user earnings and markets configuration",
+      "section": "API Referansı",
+      "bytes": 15569,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/authentication",
+      "path": "api-reference/rfq-trades/authentication.md",
+      "title": "Authentication",
+      "section": "API Referansı",
+      "bytes": 6424,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/get-trade",
+      "path": "api-reference/rfq-trades/get-trade.md",
+      "title": "Get an RFQ Trade",
+      "section": "API Referansı",
+      "bytes": 8996,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/overview",
+      "path": "api-reference/rfq-trades/overview.md",
+      "title": "Overview",
+      "section": "API Referansı",
+      "bytes": 1214,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/prepare",
+      "path": "api-reference/rfq-trades/prepare.md",
+      "title": "Prepare an RFQ Trade",
+      "section": "API Referansı",
+      "bytes": 14284,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/price-band",
+      "path": "api-reference/rfq-trades/price-band.md",
+      "title": "Get a Market's Price Band",
+      "section": "API Referansı",
+      "bytes": 8798,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/server-time",
+      "path": "api-reference/rfq-trades/server-time.md",
+      "title": "Get Server Time",
+      "section": "API Referansı",
+      "bytes": 3702,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/submit",
+      "path": "api-reference/rfq-trades/submit.md",
+      "title": "Submit an RFQ Trade",
+      "section": "API Referansı",
+      "bytes": 13473,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/rfq-trades/validate",
+      "path": "api-reference/rfq-trades/validate.md",
+      "title": "Validate an RFQ Trade",
+      "section": "API Referansı",
+      "bytes": 14733,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/search/search-markets-events-and-profiles",
+      "path": "api-reference/search/search-markets-events-and-profiles.md",
+      "title": "Search markets, events, and profiles",
+      "section": "API Referansı",
+      "bytes": 31479,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/series/get-series-by-id",
+      "path": "api-reference/series/get-series-by-id.md",
+      "title": "Get series by id",
+      "section": "API Referansı",
+      "bytes": 27810,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/series/list-series",
+      "path": "api-reference/series/list-series.md",
+      "title": "List series",
+      "section": "API Referansı",
+      "bytes": 28969,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/service/get-data-freshness",
+      "path": "api-reference/service/get-data-freshness.md",
+      "title": "Get data freshness",
+      "section": "API Referansı",
+      "bytes": 17968,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/set-auto-cancel",
+      "path": "api-reference/set-auto-cancel.md",
+      "title": "Set Auto-Cancel",
+      "section": "API Referansı",
+      "bytes": 11308,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/sports/get-sports-metadata-information",
+      "path": "api-reference/sports/get-sports-metadata-information.md",
+      "title": "Get sports metadata information",
+      "section": "API Referansı",
+      "bytes": 2658,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/sports/get-valid-sports-market-types",
+      "path": "api-reference/sports/get-valid-sports-market-types.md",
+      "title": "Get valid sports market types",
+      "section": "API Referansı",
+      "bytes": 1810,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/sports/list-teams",
+      "path": "api-reference/sports/list-teams.md",
+      "title": "List teams",
+      "section": "API Referansı",
+      "bytes": 3248,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-id",
+      "path": "api-reference/tags/get-related-tags-relationships-by-tag-id.md",
+      "title": "Get related tags (relationships) by tag id",
+      "section": "API Referansı",
+      "bytes": 2381,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-related-tags-relationships-by-tag-slug",
+      "path": "api-reference/tags/get-related-tags-relationships-by-tag-slug.md",
+      "title": "Get related tags (relationships) by tag slug",
+      "section": "API Referansı",
+      "bytes": 2406,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-tag-by-id",
+      "path": "api-reference/tags/get-tag-by-id.md",
+      "title": "Get tag by id",
+      "section": "API Referansı",
+      "bytes": 2607,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-tag-by-slug",
+      "path": "api-reference/tags/get-tag-by-slug.md",
+      "title": "Get tag by slug",
+      "section": "API Referansı",
+      "bytes": 2636,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-tags-related-to-a-tag-id",
+      "path": "api-reference/tags/get-tags-related-to-a-tag-id.md",
+      "title": "Get tags related to a tag id",
+      "section": "API Referansı",
+      "bytes": 2869,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/get-tags-related-to-a-tag-slug",
+      "path": "api-reference/tags/get-tags-related-to-a-tag-slug.md",
+      "title": "Get tags related to a tag slug",
+      "section": "API Referansı",
+      "bytes": 2894,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/tags/list-tags",
+      "path": "api-reference/tags/list-tags.md",
+      "title": "List tags",
+      "section": "API Referansı",
+      "bytes": 3179,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/test-connection",
+      "path": "api-reference/test-connection.md",
+      "title": "Test Connection",
+      "section": "API Referansı",
+      "bytes": 4338,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/cancel-all-orders",
+      "path": "api-reference/trade/cancel-all-orders.md",
+      "title": "Cancel all orders",
+      "section": "API Referansı",
+      "bytes": 5163,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/cancel-multiple-orders",
+      "path": "api-reference/trade/cancel-multiple-orders.md",
+      "title": "Cancel multiple orders",
+      "section": "API Referansı",
+      "bytes": 6834,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/cancel-orders-for-a-market",
+      "path": "api-reference/trade/cancel-orders-for-a-market.md",
+      "title": "Cancel orders for a market",
+      "section": "API Referansı",
+      "bytes": 6343,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/cancel-single-order",
+      "path": "api-reference/trade/cancel-single-order.md",
+      "title": "Cancel single order",
+      "section": "API Referansı",
+      "bytes": 5863,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/cancel-wallet-orders",
+      "path": "api-reference/trade/cancel-wallet-orders.md",
+      "title": "Cancel wallet orders",
+      "section": "API Referansı",
+      "bytes": 9315,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-builder-trades",
+      "path": "api-reference/trade/get-builder-trades.md",
+      "title": "Get builder trades",
+      "section": "API Referansı",
+      "bytes": 10284,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-order-scoring-status",
+      "path": "api-reference/trade/get-order-scoring-status.md",
+      "title": "Get order scoring status",
+      "section": "API Referansı",
+      "bytes": 5649,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-single-order-by-id",
+      "path": "api-reference/trade/get-single-order-by-id.md",
+      "title": "Get single order by ID",
+      "section": "API Referansı",
+      "bytes": 7946,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-trades",
+      "path": "api-reference/trade/get-trades.md",
+      "title": "Get trades",
+      "section": "API Referansı",
+      "bytes": 11859,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-user-orders",
+      "path": "api-reference/trade/get-user-orders.md",
+      "title": "Get user orders",
+      "section": "API Referansı",
+      "bytes": 10687,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/get-wallet-open-orders",
+      "path": "api-reference/trade/get-wallet-open-orders.md",
+      "title": "Get wallet open orders",
+      "section": "API Referansı",
+      "bytes": 9737,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/post-a-new-order",
+      "path": "api-reference/trade/post-a-new-order.md",
+      "title": "Post a new order",
+      "section": "API Referansı",
+      "bytes": 13780,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/post-multiple-orders",
+      "path": "api-reference/trade/post-multiple-orders.md",
+      "title": "Post multiple orders",
+      "section": "API Referansı",
+      "bytes": 15365,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trade/send-heartbeat",
+      "path": "api-reference/trade/send-heartbeat.md",
+      "title": "Send heartbeat",
+      "section": "API Referansı",
+      "bytes": 5283,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/trading-rate-limits",
+      "path": "api-reference/trading-rate-limits.md",
+      "title": "CLOB Trading Rate Limits",
+      "section": "API Referansı",
+      "bytes": 6082,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/update-isolated-margin",
+      "path": "api-reference/update-isolated-margin.md",
+      "title": "Update Isolated Margin",
+      "section": "API Referansı",
+      "bytes": 12654,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/update-leverage-for-multiple-instruments",
+      "path": "api-reference/update-leverage-for-multiple-instruments.md",
+      "title": "Update Leverage for Multiple Instruments",
+      "section": "API Referansı",
+      "bytes": 15564,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/update-leverage",
+      "path": "api-reference/update-leverage.md",
+      "title": "Update Leverage",
+      "section": "API Referansı",
+      "bytes": 12309,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/update-your-builder-display-name",
+      "path": "api-reference/update-your-builder-display-name.md",
+      "title": "Update your builder display name",
+      "section": "API Referansı",
+      "bytes": 21489,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/get-a-users-pnl-series",
+      "path": "api-reference/wallet/get-a-users-pnl-series.md",
+      "title": "Get a user's PnL series",
+      "section": "API Referansı",
+      "bytes": 15965,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/get-a-users-profile-stats",
+      "path": "api-reference/wallet/get-a-users-profile-stats.md",
+      "title": "Get a user's profile stats",
+      "section": "API Referansı",
+      "bytes": 19342,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/get-a-users-trading-volume",
+      "path": "api-reference/wallet/get-a-users-trading-volume.md",
+      "title": "Get a user's trading volume",
+      "section": "API Referansı",
+      "bytes": 12851,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/get-portfolio-value",
+      "path": "api-reference/wallet/get-portfolio-value.md",
+      "title": "Get portfolio value",
+      "section": "API Referansı",
+      "bytes": 11016,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/get-wallet-approvals",
+      "path": "api-reference/wallet/get-wallet-approvals.md",
+      "title": "Get wallet approvals",
+      "section": "API Referansı",
+      "bytes": 11563,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/list-combo-positions",
+      "path": "api-reference/wallet/list-combo-positions.md",
+      "title": "List combo positions",
+      "section": "API Referansı",
+      "bytes": 27285,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wallet/list-positions-for-a-user-or-market",
+      "path": "api-reference/wallet/list-positions-for-a-user-or-market.md",
+      "title": "List positions for a user or market",
+      "section": "API Referansı",
+      "bytes": 27704,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/websockets/live-data-channel",
+      "path": "api-reference/websockets/live-data-channel.md",
+      "title": "Live Data Channel",
+      "section": "API Referansı",
+      "bytes": 171916,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/withdraw",
+      "path": "api-reference/withdraw.md",
+      "title": "Withdraw",
+      "section": "API Referansı",
+      "bytes": 9995,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/market",
+      "path": "api-reference/wss/market.md",
+      "title": "Market Channel",
+      "section": "API Referansı",
+      "bytes": 44807,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-auth",
+      "path": "api-reference/wss/perps-auth.md",
+      "title": "Auth",
+      "section": "API Referansı",
+      "bytes": 11394,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-auto-cancel",
+      "path": "api-reference/wss/perps-auto-cancel.md",
+      "title": "Auto Cancel",
+      "section": "API Referansı",
+      "bytes": 11778,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-balances",
+      "path": "api-reference/wss/perps-balances.md",
+      "title": "Balances",
+      "section": "API Referansı",
+      "bytes": 24309,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-bbo",
+      "path": "api-reference/wss/perps-bbo.md",
+      "title": "BBO",
+      "section": "API Referansı",
+      "bytes": 24912,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-book",
+      "path": "api-reference/wss/perps-book.md",
+      "title": "Book",
+      "section": "API Referansı",
+      "bytes": 35912,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-builder-fills",
+      "path": "api-reference/wss/perps-builder-fills.md",
+      "title": "Builder Fills",
+      "section": "API Referansı",
+      "bytes": 40548,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-all",
+      "path": "api-reference/wss/perps-cancel-all.md",
+      "title": "Cancel All Orders",
+      "section": "API Referansı",
+      "bytes": 13406,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders-coid",
+      "path": "api-reference/wss/perps-cancel-orders-coid.md",
+      "title": "Cancel Orders by Client Order ID",
+      "section": "API Referansı",
+      "bytes": 19192,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-cancel-orders",
+      "path": "api-reference/wss/perps-cancel-orders.md",
+      "title": "Cancel Orders",
+      "section": "API Referansı",
+      "bytes": 18659,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-deposits",
+      "path": "api-reference/wss/perps-deposits.md",
+      "title": "Deposits",
+      "section": "API Referansı",
+      "bytes": 25304,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-fills",
+      "path": "api-reference/wss/perps-fills.md",
+      "title": "Fills",
+      "section": "API Referansı",
+      "bytes": 40661,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-funding",
+      "path": "api-reference/wss/perps-funding.md",
+      "title": "Funding",
+      "section": "API Referansı",
+      "bytes": 26987,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-klines",
+      "path": "api-reference/wss/perps-klines.md",
+      "title": "Klines",
+      "section": "API Referansı",
+      "bytes": 24581,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders-coid",
+      "path": "api-reference/wss/perps-modify-orders-coid.md",
+      "title": "Modify Orders by Client Order ID",
+      "section": "API Referansı",
+      "bytes": 29151,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-modify-orders",
+      "path": "api-reference/wss/perps-modify-orders.md",
+      "title": "Modify Orders",
+      "section": "API Referansı",
+      "bytes": 28877,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-notifications",
+      "path": "api-reference/wss/perps-notifications.md",
+      "title": "Notifications",
+      "section": "API Referansı",
+      "bytes": 47415,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-orders",
+      "path": "api-reference/wss/perps-orders.md",
+      "title": "Orders",
+      "section": "API Referansı",
+      "bytes": 31884,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-ping",
+      "path": "api-reference/wss/perps-ping.md",
+      "title": "Ping",
+      "section": "API Referansı",
+      "bytes": 6390,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-place-orders",
+      "path": "api-reference/wss/perps-place-orders.md",
+      "title": "Place Orders",
+      "section": "API Referansı",
+      "bytes": 28589,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-portfolio",
+      "path": "api-reference/wss/perps-portfolio.md",
+      "title": "Portfolio",
+      "section": "API Referansı",
+      "bytes": 39461,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-statistics",
+      "path": "api-reference/wss/perps-statistics.md",
+      "title": "Statistics",
+      "section": "API Referansı",
+      "bytes": 27681,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-tickers",
+      "path": "api-reference/wss/perps-tickers.md",
+      "title": "Tickers",
+      "section": "API Referansı",
+      "bytes": 27060,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-tpsl",
+      "path": "api-reference/wss/perps-tpsl.md",
+      "title": "TP/SL",
+      "section": "API Referansı",
+      "bytes": 34912,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-trades",
+      "path": "api-reference/wss/perps-trades.md",
+      "title": "Trades",
+      "section": "API Referansı",
+      "bytes": 27647,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverage",
+      "path": "api-reference/wss/perps-update-leverage.md",
+      "title": "Update Leverage",
+      "section": "API Referansı",
+      "bytes": 13252,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-leverages",
+      "path": "api-reference/wss/perps-update-leverages.md",
+      "title": "Update Leverages",
+      "section": "API Referansı",
+      "bytes": 18912,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-update-margin",
+      "path": "api-reference/wss/perps-update-margin.md",
+      "title": "Update Isolated Margin",
+      "section": "API Referansı",
+      "bytes": 13626,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/perps-withdrawals",
+      "path": "api-reference/wss/perps-withdrawals.md",
+      "title": "Withdrawals",
+      "section": "API Referansı",
+      "bytes": 26848,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/polybolt",
+      "path": "api-reference/wss/polybolt.md",
+      "title": "Live Data Channel",
+      "section": "API Referansı",
+      "bytes": 170870,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/rfq-trades",
+      "path": "api-reference/wss/rfq-trades.md",
+      "title": "Trade Status Stream",
+      "section": "API Referansı",
+      "bytes": 10590,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/rfq",
+      "path": "api-reference/wss/rfq.md",
+      "title": "Quoter Gateway",
+      "section": "API Referansı",
+      "bytes": 54957,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/sports",
+      "path": "api-reference/wss/sports.md",
+      "title": "Sports Channel",
+      "section": "API Referansı",
+      "bytes": 7988,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/api-reference/wss/user",
+      "path": "api-reference/wss/user.md",
+      "title": "User Channel",
+      "section": "API Referansı",
+      "bytes": 27333,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/changelog/perps",
+      "path": "changelog/perps.md",
+      "title": "Perps Changelog",
+      "section": "changelog",
+      "bytes": 74294,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/changelog/predictions",
+      "path": "changelog/predictions.md",
+      "title": "Predictions Changelog",
+      "section": "changelog",
+      "bytes": 36019,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/changelog/sdks",
+      "path": "changelog/sdks.md",
+      "title": "SDK Changelog",
+      "section": "changelog",
+      "bytes": 78044,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn",
+      "path": "cn.md",
+      "title": "概览",
+      "section": "Genel",
+      "bytes": 2566,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/account/get-rate-limit-tier",
+      "path": "cn/api-reference/account/get-rate-limit-tier.md",
+      "title": "获取速率限制等级",
+      "section": "Çince API Referansı",
+      "bytes": 6369,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/approve-or-revoke-builder-fees-with-an-account-owner-signature",
+      "path": "cn/api-reference/approve-or-revoke-builder-fees-with-an-account-owner-signature.md",
+      "title": "授权构建者费用",
+      "section": "Çince API Referansı",
+      "bytes": 11539,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/boards/get-builder-volume-over-time",
+      "path": "cn/api-reference/boards/get-builder-volume-over-time.md",
+      "title": "获取 Builder 交易量走势",
+      "section": "Çince API Referansı",
+      "bytes": 13290,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/boards/get-the-builders-leaderboard",
+      "path": "cn/api-reference/boards/get-the-builders-leaderboard.md",
+      "title": "获取 Builder 排行榜",
+      "section": "Çince API Referansı",
+      "bytes": 13871,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/boards/get-the-trader-leaderboard",
+      "path": "cn/api-reference/boards/get-the-trader-leaderboard.md",
+      "title": "获取交易者榜单",
+      "section": "Çince API Referansı",
+      "bytes": 19305,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/boards/list-the-biggest-wins",
+      "path": "cn/api-reference/boards/list-the-biggest-wins.md",
+      "title": "获取最大盈利榜",
+      "section": "Çince API Referansı",
+      "bytes": 15056,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/bridge/create-bridge-addresses",
+      "path": "cn/api-reference/bridge/create-bridge-addresses.md",
+      "title": "创建跨链桥地址",
+      "section": "Çince API Referansı",
+      "bytes": 3972,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/bridge/create-withdrawal-addresses",
+      "path": "cn/api-reference/bridge/create-withdrawal-addresses.md",
+      "title": "创建提现地址",
+      "section": "Çince API Referansı",
+      "bytes": 5091,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/bridge/get-a-quote",
+      "path": "cn/api-reference/bridge/get-a-quote.md",
+      "title": "获取报价",
+      "section": "Çince API Referansı",
+      "bytes": 6943,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/bridge/get-supported-assets",
+      "path": "cn/api-reference/bridge/get-supported-assets.md",
+      "title": "获取支持的资产",
+      "section": "Çince API Referansı",
+      "bytes": 2489,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/bridge/get-transaction-status",
+      "path": "cn/api-reference/bridge/get-transaction-status.md",
+      "title": "获取交易状态",
+      "section": "Çince API Referansı",
+      "bytes": 8732,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/combo-markets/get-combo-markets",
+      "path": "cn/api-reference/combo-markets/get-combo-markets.md",
+      "title": "获取组合市场",
+      "section": "Çince API Referansı",
+      "bytes": 5920,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/comments/get-comments-by-comment-id",
+      "path": "cn/api-reference/comments/get-comments-by-comment-id.md",
+      "title": "按评论 ID 获取评论",
+      "section": "Çince API Referansı",
+      "bytes": 5154,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/comments/get-comments-by-user-address",
+      "path": "cn/api-reference/comments/get-comments-by-user-address.md",
+      "title": "按用户地址获取评论",
+      "section": "Çince API Referansı",
+      "bytes": 5791,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/comments/list-comments",
+      "path": "cn/api-reference/comments/list-comments.md",
+      "title": "获取评论列表",
+      "section": "Çince API Referansı",
+      "bytes": 6040,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/data-api/overview",
+      "path": "cn/api-reference/data-api/overview.md",
+      "title": "Data API v2",
+      "section": "Çince API Referansı",
+      "bytes": 9103,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/data/get-midpoint-price",
+      "path": "cn/api-reference/data/get-midpoint-price.md",
+      "title": "获取中间价",
+      "section": "Çince API Referansı",
+      "bytes": 3016,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/data/get-server-time",
+      "path": "cn/api-reference/data/get-server-time.md",
+      "title": "获取服务器时间",
+      "section": "Çince API Referansı",
+      "bytes": 2229,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/events/get-event-by-id",
+      "path": "cn/api-reference/events/get-event-by-id.md",
+      "title": "按 ID 获取事件",
+      "section": "Çince API Referansı",
+      "bytes": 27905,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/events/get-event-by-slug",
+      "path": "cn/api-reference/events/get-event-by-slug.md",
+      "title": "按 Slug 获取事件",
+      "section": "Çince API Referansı",
+      "bytes": 27934,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/events/get-event-tags",
+      "path": "cn/api-reference/events/get-event-tags.md",
+      "title": "获取事件标签",
+      "section": "Çince API Referansı",
+      "bytes": 2628,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/events/list-events-keyset-pagination",
+      "path": "cn/api-reference/events/list-events-keyset-pagination.md",
+      "title": "获取事件列表（键集分页）",
+      "section": "Çince API Referansı",
+      "bytes": 36067,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/events/list-events",
+      "path": "cn/api-reference/events/list-events.md",
+      "title": "获取事件列表",
+      "section": "Çince API Referansı",
+      "bytes": 30861,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/feeds/list-account-activity",
+      "path": "cn/api-reference/feeds/list-account-activity.md",
+      "title": "列出账户活动",
+      "section": "Çince API Referansı",
+      "bytes": 20285,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/feeds/list-combo-activity",
+      "path": "cn/api-reference/feeds/list-combo-activity.md",
+      "title": "列出组合活动",
+      "section": "Çince API Referansı",
+      "bytes": 19132,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/feeds/list-trades",
+      "path": "cn/api-reference/feeds/list-trades.md",
+      "title": "列出交易",
+      "section": "Çince API Referansı",
+      "bytes": 16843,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/geoblock",
+      "path": "cn/api-reference/geoblock.md",
+      "title": "地区限制",
+      "section": "Çince API Referansı",
+      "bytes": 5273,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-account-backstop-transfers",
+      "path": "cn/api-reference/get-account-backstop-transfers.md",
+      "title": "获取账户兜底清算转账记录",
+      "section": "Çince API Referansı",
+      "bytes": 13977,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-authenticated-builder-receipts",
+      "path": "cn/api-reference/get-authenticated-builder-receipts.md",
+      "title": "查询构建者收益明细",
+      "section": "Çince API Referansı",
+      "bytes": 16638,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-authenticated-builder-settled-earnings-summary",
+      "path": "cn/api-reference/get-authenticated-builder-settled-earnings-summary.md",
+      "title": "查询构建者收益汇总",
+      "section": "Çince API Referansı",
+      "bytes": 13261,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-builder-profile-and-eligibility",
+      "path": "cn/api-reference/get-builder-profile-and-eligibility.md",
+      "title": "获取构建者资料及资格",
+      "section": "Çince API Referansı",
+      "bytes": 21146,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-exchange-statistics",
+      "path": "cn/api-reference/get-exchange-statistics.md",
+      "title": "获取交易所统计数据",
+      "section": "Çince API Referansı",
+      "bytes": 11937,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-leaderboard",
+      "path": "cn/api-reference/get-leaderboard.md",
+      "title": "获取排行榜",
+      "section": "Çince API Referansı",
+      "bytes": 19430,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-position-share-card-snapshots",
+      "path": "cn/api-reference/get-position-share-card-snapshots.md",
+      "title": "批量获取仓位分享卡快照",
+      "section": "Çince API Referansı",
+      "bytes": 21029,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-public-fills",
+      "path": "cn/api-reference/get-public-fills.md",
+      "title": "获取公开成交记录",
+      "section": "Çince API Referansı",
+      "bytes": 23158,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-registration",
+      "path": "cn/api-reference/get-registration.md",
+      "title": "获取注册状态",
+      "section": "Çince API Referansı",
+      "bytes": 5680,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-trading-competition-account",
+      "path": "cn/api-reference/get-trading-competition-account.md",
+      "title": "获取账户的交易竞赛数据",
+      "section": "Çince API Referansı",
+      "bytes": 15728,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-trading-competition-leaderboard",
+      "path": "cn/api-reference/get-trading-competition-leaderboard.md",
+      "title": "获取交易竞赛排行榜",
+      "section": "Çince API Referansı",
+      "bytes": 16220,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-trading-competition-widget",
+      "path": "cn/api-reference/get-trading-competition-widget.md",
+      "title": "获取交易竞赛概览",
+      "section": "Çince API Referansı",
+      "bytes": 10541,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-trading-competition",
+      "path": "cn/api-reference/get-trading-competition.md",
+      "title": "获取交易竞赛详情",
+      "section": "Çince API Referansı",
+      "bytes": 15057,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/get-trading-competitions",
+      "path": "cn/api-reference/get-trading-competitions.md",
+      "title": "获取交易竞赛",
+      "section": "Çince API Referansı",
+      "bytes": 12129,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/live-data/overview",
+      "path": "cn/api-reference/live-data/overview.md",
+      "title": "PolyBolt WebSocket",
+      "section": "Çince API Referansı",
+      "bytes": 7550,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/maker/cancel-a-quote",
+      "path": "cn/api-reference/maker/cancel-a-quote.md",
+      "title": "取消报价",
+      "section": "Çince API Referansı",
+      "bytes": 12025,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/maker/confirm-or-decline-last-look",
+      "path": "cn/api-reference/maker/confirm-or-decline-last-look.md",
+      "title": "确认或拒绝最终确认",
+      "section": "Çince API Referansı",
+      "bytes": 18625,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/maker/submit-a-quote",
+      "path": "cn/api-reference/maker/submit-a-quote.md",
+      "title": "提交报价",
+      "section": "Çince API Referansı",
+      "bytes": 15783,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-fee-rate-by-path-parameter",
+      "path": "cn/api-reference/market-data/get-fee-rate-by-path-parameter.md",
+      "title": "通过路径参数获取费率",
+      "section": "Çince API Referansı",
+      "bytes": 3258,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-fee-rate",
+      "path": "cn/api-reference/market-data/get-fee-rate.md",
+      "title": "获取费率",
+      "section": "Çince API Referansı",
+      "bytes": 3289,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-last-trade-price",
+      "path": "cn/api-reference/market-data/get-last-trade-price.md",
+      "title": "获取最新成交价",
+      "section": "Çince API Referansı",
+      "bytes": 3303,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-last-trade-prices-query-parameters",
+      "path": "cn/api-reference/market-data/get-last-trade-prices-query-parameters.md",
+      "title": "获取最新成交价（查询参数）",
+      "section": "Çince API Referansı",
+      "bytes": 4095,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-last-trade-prices-request-body",
+      "path": "cn/api-reference/market-data/get-last-trade-prices-request-body.md",
+      "title": "获取最新成交价（请求体）",
+      "section": "Çince API Referansı",
+      "bytes": 4559,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-market-price",
+      "path": "cn/api-reference/market-data/get-market-price.md",
+      "title": "获取市场价格",
+      "section": "Çince API Referansı",
+      "bytes": 3867,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-market-prices-query-parameters",
+      "path": "cn/api-reference/market-data/get-market-prices-query-parameters.md",
+      "title": "获取市场价格（查询参数）",
+      "section": "Çince API Referansı",
+      "bytes": 3884,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-market-prices-request-body",
+      "path": "cn/api-reference/market-data/get-market-prices-request-body.md",
+      "title": "获取市场价格（请求体）",
+      "section": "Çince API Referansı",
+      "bytes": 4270,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-midpoint-prices-query-parameters",
+      "path": "cn/api-reference/market-data/get-midpoint-prices-query-parameters.md",
+      "title": "获取中间价（查询参数）",
+      "section": "Çince API Referansı",
+      "bytes": 3066,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-midpoint-prices-request-body",
+      "path": "cn/api-reference/market-data/get-midpoint-prices-request-body.md",
+      "title": "获取中间价（请求体）",
+      "section": "Çince API Referansı",
+      "bytes": 3549,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-order-book",
+      "path": "cn/api-reference/market-data/get-order-book.md",
+      "title": "获取订单簿",
+      "section": "Çince API Referansı",
+      "bytes": 5621,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-order-books-request-body",
+      "path": "cn/api-reference/market-data/get-order-books-request-body.md",
+      "title": "获取订单簿（请求体）",
+      "section": "Çince API Referansı",
+      "bytes": 5455,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-spread",
+      "path": "cn/api-reference/market-data/get-spread.md",
+      "title": "获取价差",
+      "section": "Çince API Referansı",
+      "bytes": 2943,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-spreads",
+      "path": "cn/api-reference/market-data/get-spreads.md",
+      "title": "获取价差",
+      "section": "Çince API Referansı",
+      "bytes": 3397,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-tick-size-by-path-parameter",
+      "path": "cn/api-reference/market-data/get-tick-size-by-path-parameter.md",
+      "title": "通过路径参数获取最小价格变动单位",
+      "section": "Çince API Referansı",
+      "bytes": 3343,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/market-data/get-tick-size",
+      "path": "cn/api-reference/market-data/get-tick-size.md",
+      "title": "获取最小价格变动单位",
+      "section": "Çince API Referansı",
+      "bytes": 3384,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-a-tokens-price-history",
+      "path": "cn/api-reference/markets/get-a-tokens-price-history.md",
+      "title": "获取代币价格历史",
+      "section": "Çince API Referansı",
+      "bytes": 22685,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-batch-prices-history",
+      "path": "cn/api-reference/markets/get-batch-prices-history.md",
+      "title": "批量获取历史价格",
+      "section": "Çince API Referansı",
+      "bytes": 3938,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-clob-market-info",
+      "path": "cn/api-reference/markets/get-clob-market-info.md",
+      "title": "获取 CLOB 市场信息",
+      "section": "Çince API Referansı",
+      "bytes": 5637,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-live-volume-for-an-event",
+      "path": "cn/api-reference/markets/get-live-volume-for-an-event.md",
+      "title": "获取事件实时成交量",
+      "section": "Çince API Referansı",
+      "bytes": 12692,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-market-by-id",
+      "path": "cn/api-reference/markets/get-market-by-id.md",
+      "title": "按 ID 获取市场",
+      "section": "Çince API Referansı",
+      "bytes": 27814,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-market-by-slug",
+      "path": "cn/api-reference/markets/get-market-by-slug.md",
+      "title": "按 Slug 获取市场",
+      "section": "Çince API Referansı",
+      "bytes": 27843,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-market-by-token",
+      "path": "cn/api-reference/markets/get-market-by-token.md",
+      "title": "按 Token 获取市场",
+      "section": "Çince API Referansı",
+      "bytes": 3822,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-market-tags-by-id",
+      "path": "cn/api-reference/markets/get-market-tags-by-id.md",
+      "title": "按 ID 获取市场标签",
+      "section": "Çince API Referansı",
+      "bytes": 2647,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-open-interest",
+      "path": "cn/api-reference/markets/get-open-interest.md",
+      "title": "获取市场未平仓量",
+      "section": "Çince API Referansı",
+      "bytes": 11561,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-prices-history",
+      "path": "cn/api-reference/markets/get-prices-history.md",
+      "title": "获取历史价格",
+      "section": "Çince API Referansı",
+      "bytes": 3715,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-resolution-state",
+      "path": "cn/api-reference/markets/get-resolution-state.md",
+      "title": "获取市场结算状态",
+      "section": "Çince API Referansı",
+      "bytes": 16871,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-sampling-markets",
+      "path": "cn/api-reference/markets/get-sampling-markets.md",
+      "title": "获取抽样市场",
+      "section": "Çince API Referansı",
+      "bytes": 4187,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-sampling-simplified-markets",
+      "path": "cn/api-reference/markets/get-sampling-simplified-markets.md",
+      "title": "获取简化抽样市场",
+      "section": "Çince API Referansı",
+      "bytes": 3035,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/get-simplified-markets",
+      "path": "cn/api-reference/markets/get-simplified-markets.md",
+      "title": "获取简化市场",
+      "section": "Çince API Referansı",
+      "bytes": 2994,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/list-a-markets-top-holders",
+      "path": "cn/api-reference/markets/list-a-markets-top-holders.md",
+      "title": "列出市场最大持仓者",
+      "section": "Çince API Referansı",
+      "bytes": 19843,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/list-markets-keyset-pagination",
+      "path": "cn/api-reference/markets/list-markets-keyset-pagination.md",
+      "title": "获取市场列表（键集分页）",
+      "section": "Çince API Referansı",
+      "bytes": 34824,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/list-markets",
+      "path": "cn/api-reference/markets/list-markets.md",
+      "title": "获取市场列表",
+      "section": "Çince API Referansı",
+      "bytes": 31457,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/markets/look-up-tokens",
+      "path": "cn/api-reference/markets/look-up-tokens.md",
+      "title": "查询代币",
+      "section": "Çince API Referansı",
+      "bytes": 20403,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/modify-orders-coid",
+      "path": "cn/api-reference/modify-orders-coid.md",
+      "title": "按客户端订单 ID 修改订单",
+      "section": "Çince API Referansı",
+      "bytes": 12557,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/modify-orders",
+      "path": "cn/api-reference/modify-orders.md",
+      "title": "修改订单",
+      "section": "Çince API Referansı",
+      "bytes": 12467,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/predictions/overview",
+      "path": "cn/api-reference/predictions/overview.md",
+      "title": "概览",
+      "section": "Çince API Referansı",
+      "bytes": 1361,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/profiles/get-public-profile-by-wallet-address",
+      "path": "cn/api-reference/profiles/get-public-profile-by-wallet-address.md",
+      "title": "按钱包地址获取公开资料",
+      "section": "Çince API Referansı",
+      "bytes": 4539,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rate-limits",
+      "path": "cn/api-reference/rate-limits.md",
+      "title": "速率限制",
+      "section": "Çince API Referansı",
+      "bytes": 3490,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/read-builder-approvals-including-retained-revoked-versions",
+      "path": "cn/api-reference/read-builder-approvals-including-retained-revoked-versions.md",
+      "title": "查询构建者授权",
+      "section": "Çince API Referansı",
+      "bytes": 10483,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rebates/get-current-rebated-fees-for-a-maker",
+      "path": "cn/api-reference/rebates/get-current-rebated-fees-for-a-maker.md",
+      "title": "获取做市商当前返佣",
+      "section": "Çince API Referansı",
+      "bytes": 5044,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer-api-keys/get-all-relayer-api-keys",
+      "path": "cn/api-reference/relayer-api-keys/get-all-relayer-api-keys.md",
+      "title": "获取所有 Relayer API Key",
+      "section": "Çince API Referansı",
+      "bytes": 4285,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/check-if-a-wallet-is-deployed",
+      "path": "cn/api-reference/relayer/check-if-a-wallet-is-deployed.md",
+      "title": "检查钱包是否已部署",
+      "section": "Çince API Referansı",
+      "bytes": 3895,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/get-a-transaction-by-id",
+      "path": "cn/api-reference/relayer/get-a-transaction-by-id.md",
+      "title": "按 ID 获取交易",
+      "section": "Çince API Referansı",
+      "bytes": 6917,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/get-current-nonce-for-a-user",
+      "path": "cn/api-reference/relayer/get-current-nonce-for-a-user.md",
+      "title": "获取用户当前 Nonce",
+      "section": "Çince API Referansı",
+      "bytes": 3267,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/get-recent-transactions-for-a-user",
+      "path": "cn/api-reference/relayer/get-recent-transactions-for-a-user.md",
+      "title": "获取用户最近的交易",
+      "section": "Çince API Referansı",
+      "bytes": 9033,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/get-relayer-address-and-nonce",
+      "path": "cn/api-reference/relayer/get-relayer-address-and-nonce.md",
+      "title": "获取 Relayer 地址和 Nonce",
+      "section": "Çince API Referansı",
+      "bytes": 3569,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/relayer/submit-a-transaction",
+      "path": "cn/api-reference/relayer/submit-a-transaction.md",
+      "title": "提交交易",
+      "section": "Çince API Referansı",
+      "bytes": 9219,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-current-active-rewards-configurations",
+      "path": "cn/api-reference/rewards/get-current-active-rewards-configurations.md",
+      "title": "获取当前有效的奖励配置",
+      "section": "Çince API Referansı",
+      "bytes": 7274,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-earnings-for-user-by-date",
+      "path": "cn/api-reference/rewards/get-earnings-for-user-by-date.md",
+      "title": "获取用户指定日期的收益",
+      "section": "Çince API Referansı",
+      "bytes": 7698,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-multiple-markets-with-rewards",
+      "path": "cn/api-reference/rewards/get-multiple-markets-with-rewards.md",
+      "title": "获取多个奖励市场",
+      "section": "Çince API Referansı",
+      "bytes": 12624,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-raw-rewards-for-a-specific-market",
+      "path": "cn/api-reference/rewards/get-raw-rewards-for-a-specific-market.md",
+      "title": "获取指定市场的原始奖励",
+      "section": "Çince API Referansı",
+      "bytes": 9225,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-reward-percentages-for-user",
+      "path": "cn/api-reference/rewards/get-reward-percentages-for-user.md",
+      "title": "获取用户奖励比例",
+      "section": "Çince API Referansı",
+      "bytes": 5235,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-total-earnings-for-user-by-date",
+      "path": "cn/api-reference/rewards/get-total-earnings-for-user-by-date.md",
+      "title": "获取用户指定日期的总收益",
+      "section": "Çince API Referansı",
+      "bytes": 7060,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rewards/get-user-earnings-and-markets-configuration",
+      "path": "cn/api-reference/rewards/get-user-earnings-and-markets-configuration.md",
+      "title": "获取用户收益和市场配置",
+      "section": "Çince API Referansı",
+      "bytes": 15558,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/authentication",
+      "path": "cn/api-reference/rfq-trades/authentication.md",
+      "title": "身份验证",
+      "section": "Çince API Referansı",
+      "bytes": 6475,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/get-trade",
+      "path": "cn/api-reference/rfq-trades/get-trade.md",
+      "title": "获取 RFQ 交易",
+      "section": "Çince API Referansı",
+      "bytes": 9005,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/overview",
+      "path": "cn/api-reference/rfq-trades/overview.md",
+      "title": "概览",
+      "section": "Çince API Referansı",
+      "bytes": 1209,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/prepare",
+      "path": "cn/api-reference/rfq-trades/prepare.md",
+      "title": "准备 RFQ 交易",
+      "section": "Çince API Referansı",
+      "bytes": 14294,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/price-band",
+      "path": "cn/api-reference/rfq-trades/price-band.md",
+      "title": "获取市场价格区间",
+      "section": "Çince API Referansı",
+      "bytes": 8808,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/server-time",
+      "path": "cn/api-reference/rfq-trades/server-time.md",
+      "title": "获取服务器时间",
+      "section": "Çince API Referansı",
+      "bytes": 3700,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/submit",
+      "path": "cn/api-reference/rfq-trades/submit.md",
+      "title": "提交 RFQ 交易",
+      "section": "Çince API Referansı",
+      "bytes": 13479,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/rfq-trades/validate",
+      "path": "cn/api-reference/rfq-trades/validate.md",
+      "title": "验证 RFQ 交易",
+      "section": "Çince API Referansı",
+      "bytes": 14731,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/search/search-markets-events-and-profiles",
+      "path": "cn/api-reference/search/search-markets-events-and-profiles.md",
+      "title": "搜索市场、事件和资料",
+      "section": "Çince API Referansı",
+      "bytes": 31472,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/series/get-series-by-id",
+      "path": "cn/api-reference/series/get-series-by-id.md",
+      "title": "按 ID 获取系列",
+      "section": "Çince API Referansı",
+      "bytes": 27812,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/series/list-series",
+      "path": "cn/api-reference/series/list-series.md",
+      "title": "获取系列列表",
+      "section": "Çince API Referansı",
+      "bytes": 28975,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/service/get-data-freshness",
+      "path": "cn/api-reference/service/get-data-freshness.md",
+      "title": "获取数据新鲜度",
+      "section": "Çince API Referansı",
+      "bytes": 17971,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/sports/get-sports-metadata-information",
+      "path": "cn/api-reference/sports/get-sports-metadata-information.md",
+      "title": "获取体育元数据",
+      "section": "Çince API Referansı",
+      "bytes": 2647,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/sports/get-valid-sports-market-types",
+      "path": "cn/api-reference/sports/get-valid-sports-market-types.md",
+      "title": "获取有效的体育市场类型",
+      "section": "Çince API Referansı",
+      "bytes": 1813,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/sports/list-teams",
+      "path": "cn/api-reference/sports/list-teams.md",
+      "title": "获取队伍列表",
+      "section": "Çince API Referansı",
+      "bytes": 3255,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-related-tags-relationships-by-tag-id",
+      "path": "cn/api-reference/tags/get-related-tags-relationships-by-tag-id.md",
+      "title": "按标签 ID 获取相关标签关系",
+      "section": "Çince API Referansı",
+      "bytes": 2375,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-related-tags-relationships-by-tag-slug",
+      "path": "cn/api-reference/tags/get-related-tags-relationships-by-tag-slug.md",
+      "title": "按标签 Slug 获取相关标签关系",
+      "section": "Çince API Referansı",
+      "bytes": 2400,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-tag-by-id",
+      "path": "cn/api-reference/tags/get-tag-by-id.md",
+      "title": "按 ID 获取标签",
+      "section": "Çince API Referansı",
+      "bytes": 2612,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-tag-by-slug",
+      "path": "cn/api-reference/tags/get-tag-by-slug.md",
+      "title": "按 Slug 获取标签",
+      "section": "Çince API Referansı",
+      "bytes": 2641,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-tags-related-to-a-tag-id",
+      "path": "cn/api-reference/tags/get-tags-related-to-a-tag-id.md",
+      "title": "获取与标签 ID 相关的标签",
+      "section": "Çince API Referansı",
+      "bytes": 2874,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/get-tags-related-to-a-tag-slug",
+      "path": "cn/api-reference/tags/get-tags-related-to-a-tag-slug.md",
+      "title": "获取与标签 Slug 相关的标签",
+      "section": "Çince API Referansı",
+      "bytes": 2899,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/tags/list-tags",
+      "path": "cn/api-reference/tags/list-tags.md",
+      "title": "获取标签列表",
+      "section": "Çince API Referansı",
+      "bytes": 3187,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/cancel-all-orders",
+      "path": "cn/api-reference/trade/cancel-all-orders.md",
+      "title": "取消所有订单",
+      "section": "Çince API Referansı",
+      "bytes": 5163,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/cancel-multiple-orders",
+      "path": "cn/api-reference/trade/cancel-multiple-orders.md",
+      "title": "批量取消订单",
+      "section": "Çince API Referansı",
+      "bytes": 6829,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/cancel-orders-for-a-market",
+      "path": "cn/api-reference/trade/cancel-orders-for-a-market.md",
+      "title": "取消市场订单",
+      "section": "Çince API Referansı",
+      "bytes": 6334,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/cancel-single-order",
+      "path": "cn/api-reference/trade/cancel-single-order.md",
+      "title": "取消单个订单",
+      "section": "Çince API Referansı",
+      "bytes": 5861,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/cancel-wallet-orders",
+      "path": "cn/api-reference/trade/cancel-wallet-orders.md",
+      "title": "取消钱包订单",
+      "section": "Çince API Referansı",
+      "bytes": 9312,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-builder-trades",
+      "path": "cn/api-reference/trade/get-builder-trades.md",
+      "title": "获取 Builder 交易",
+      "section": "Çince API Referansı",
+      "bytes": 10286,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-order-scoring-status",
+      "path": "cn/api-reference/trade/get-order-scoring-status.md",
+      "title": "获取订单计分状态",
+      "section": "Çince API Referansı",
+      "bytes": 5648,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-single-order-by-id",
+      "path": "cn/api-reference/trade/get-single-order-by-id.md",
+      "title": "按 ID 获取订单",
+      "section": "Çince API Referansı",
+      "bytes": 7942,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-trades",
+      "path": "cn/api-reference/trade/get-trades.md",
+      "title": "获取交易",
+      "section": "Çince API Referansı",
+      "bytes": 11860,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-user-orders",
+      "path": "cn/api-reference/trade/get-user-orders.md",
+      "title": "获取用户订单",
+      "section": "Çince API Referansı",
+      "bytes": 10705,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/get-wallet-open-orders",
+      "path": "cn/api-reference/trade/get-wallet-open-orders.md",
+      "title": "获取钱包未完成订单",
+      "section": "Çince API Referansı",
+      "bytes": 9741,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/post-a-new-order",
+      "path": "cn/api-reference/trade/post-a-new-order.md",
+      "title": "提交新订单",
+      "section": "Çince API Referansı",
+      "bytes": 13778,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/post-multiple-orders",
+      "path": "cn/api-reference/trade/post-multiple-orders.md",
+      "title": "批量提交订单",
+      "section": "Çince API Referansı",
+      "bytes": 15362,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trade/send-heartbeat",
+      "path": "cn/api-reference/trade/send-heartbeat.md",
+      "title": "发送心跳",
+      "section": "Çince API Referansı",
+      "bytes": 5280,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/trading-rate-limits",
+      "path": "cn/api-reference/trading-rate-limits.md",
+      "title": "CLOB 交易速率限制",
+      "section": "Çince API Referansı",
+      "bytes": 5848,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/update-leverage-for-multiple-instruments",
+      "path": "cn/api-reference/update-leverage-for-multiple-instruments.md",
+      "title": "批量更新杠杆",
+      "section": "Çince API Referansı",
+      "bytes": 15473,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/update-your-builder-display-name",
+      "path": "cn/api-reference/update-your-builder-display-name.md",
+      "title": "更新构建者显示名称",
+      "section": "Çince API Referansı",
+      "bytes": 21483,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/get-a-users-pnl-series",
+      "path": "cn/api-reference/wallet/get-a-users-pnl-series.md",
+      "title": "获取用户盈亏曲线",
+      "section": "Çince API Referansı",
+      "bytes": 15966,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/get-a-users-profile-stats",
+      "path": "cn/api-reference/wallet/get-a-users-profile-stats.md",
+      "title": "获取用户资料统计",
+      "section": "Çince API Referansı",
+      "bytes": 19340,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/get-a-users-trading-volume",
+      "path": "cn/api-reference/wallet/get-a-users-trading-volume.md",
+      "title": "获取用户交易量",
+      "section": "Çince API Referansı",
+      "bytes": 12845,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/get-portfolio-value",
+      "path": "cn/api-reference/wallet/get-portfolio-value.md",
+      "title": "获取投资组合价值",
+      "section": "Çince API Referansı",
+      "bytes": 11021,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/get-wallet-approvals",
+      "path": "cn/api-reference/wallet/get-wallet-approvals.md",
+      "title": "获取钱包授权状态",
+      "section": "Çince API Referansı",
+      "bytes": 11567,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/list-combo-positions",
+      "path": "cn/api-reference/wallet/list-combo-positions.md",
+      "title": "列出组合仓位",
+      "section": "Çince API Referansı",
+      "bytes": 27283,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wallet/list-positions-for-a-user-or-market",
+      "path": "cn/api-reference/wallet/list-positions-for-a-user-or-market.md",
+      "title": "获取用户或市场的仓位",
+      "section": "Çince API Referansı",
+      "bytes": 27699,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/market",
+      "path": "cn/api-reference/wss/market.md",
+      "title": "市场频道",
+      "section": "Çince API Referansı",
+      "bytes": 44805,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/perps-builder-fills",
+      "path": "cn/api-reference/wss/perps-builder-fills.md",
+      "title": "Builder Fills",
+      "section": "Çince API Referansı",
+      "bytes": 40548,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/perps-modify-orders-coid",
+      "path": "cn/api-reference/wss/perps-modify-orders-coid.md",
+      "title": "按客户端订单 ID 修改订单",
+      "section": "Çince API Referansı",
+      "bytes": 29165,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/perps-modify-orders",
+      "path": "cn/api-reference/wss/perps-modify-orders.md",
+      "title": "修改订单",
+      "section": "Çince API Referansı",
+      "bytes": 28886,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/perps-tpsl",
+      "path": "cn/api-reference/wss/perps-tpsl.md",
+      "title": "止盈止损",
+      "section": "Çince API Referansı",
+      "bytes": 34954,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/perps-update-leverages",
+      "path": "cn/api-reference/wss/perps-update-leverages.md",
+      "title": "批量更新杠杆",
+      "section": "Çince API Referansı",
+      "bytes": 18925,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/polybolt",
+      "path": "cn/api-reference/wss/polybolt.md",
+      "title": "实时数据频道",
+      "section": "Çince API Referansı",
+      "bytes": 170883,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/rfq-trades",
+      "path": "cn/api-reference/wss/rfq-trades.md",
+      "title": "交易状态流",
+      "section": "Çince API Referansı",
+      "bytes": 10603,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/rfq",
+      "path": "cn/api-reference/wss/rfq.md",
+      "title": "报价方网关",
+      "section": "Çince API Referansı",
+      "bytes": 54958,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/sports",
+      "path": "cn/api-reference/wss/sports.md",
+      "title": "体育频道",
+      "section": "Çince API Referansı",
+      "bytes": 7986,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/api-reference/wss/user",
+      "path": "cn/api-reference/wss/user.md",
+      "title": "用户频道",
+      "section": "Çince API Referansı",
+      "bytes": 27333,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/markets-events",
+      "path": "cn/concepts/markets-events.md",
+      "title": "市场与事件",
+      "section": "Çince Dokümanlar",
+      "bytes": 3711,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/negative-risk",
+      "path": "cn/concepts/negative-risk.md",
+      "title": "负风险市场",
+      "section": "Çince Dokümanlar",
+      "bytes": 2275,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/order-lifecycle",
+      "path": "cn/concepts/order-lifecycle.md",
+      "title": "订单生命周期",
+      "section": "Çince Dokümanlar",
+      "bytes": 5886,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/positions-tokens",
+      "path": "cn/concepts/positions-tokens.md",
+      "title": "持仓与代币",
+      "section": "Çince Dokümanlar",
+      "bytes": 3902,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/prices-orderbook",
+      "path": "cn/concepts/prices-orderbook.md",
+      "title": "价格与订单簿",
+      "section": "Çince Dokümanlar",
+      "bytes": 3700,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/pusd",
+      "path": "cn/concepts/pusd.md",
+      "title": "Polymarket USD",
+      "section": "Çince Dokümanlar",
+      "bytes": 5629,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/concepts/resolution",
+      "path": "cn/concepts/resolution.md",
+      "title": "结算",
+      "section": "Çince Dokümanlar",
+      "bytes": 4468,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/getting-started/api",
+      "path": "cn/getting-started/api.md",
+      "title": "API",
+      "section": "Çince Dokümanlar",
+      "bytes": 8656,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/getting-started/python",
+      "path": "cn/getting-started/python.md",
+      "title": "Python SDK",
+      "section": "Çince Dokümanlar",
+      "bytes": 9644,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/getting-started/sdks-apis",
+      "path": "cn/getting-started/sdks-apis.md",
+      "title": "SDK 与 API",
+      "section": "Çince Dokümanlar",
+      "bytes": 1632,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/getting-started/typescript",
+      "path": "cn/getting-started/typescript.md",
+      "title": "TypeScript SDK",
+      "section": "Çince Dokümanlar",
+      "bytes": 9180,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/index",
+      "path": "cn/index.md",
+      "title": "概览",
+      "section": "Çince Dokümanlar",
+      "bytes": 2554,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/discover-markets",
+      "path": "cn/market-data/discover-markets.md",
+      "title": "发现市场",
+      "section": "Çince Dokümanlar",
+      "bytes": 53432,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/market-details",
+      "path": "cn/market-data/market-details.md",
+      "title": "市场详情",
+      "section": "Çince Dokümanlar",
+      "bytes": 25962,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/overview",
+      "path": "cn/market-data/overview.md",
+      "title": "概览",
+      "section": "Çince Dokümanlar",
+      "bytes": 2099,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/prices-order-books",
+      "path": "cn/market-data/prices-order-books.md",
+      "title": "价格与订单簿",
+      "section": "Çince Dokümanlar",
+      "bytes": 33373,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/public-analytics",
+      "path": "cn/market-data/public-analytics.md",
+      "title": "分析",
+      "section": "Çince Dokümanlar",
+      "bytes": 44757,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/market-data/realtime-data",
+      "path": "cn/market-data/realtime-data.md",
+      "title": "实时数据",
+      "section": "Çince Dokümanlar",
+      "bytes": 54135,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/migrate/clob-sdk-to-unified-sdk",
+      "path": "cn/migrate/clob-sdk-to-unified-sdk.md",
+      "title": "从旧版 SDK 迁移到统一 SDK",
+      "section": "Çince Dokümanlar",
+      "bytes": 56995,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/migrate/data-api-v1-to-v2",
+      "path": "cn/migrate/data-api-v1-to-v2.md",
+      "title": "从 Data API v1 迁移到 v2",
+      "section": "Çince Dokümanlar",
+      "bytes": 4793,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/migrate/rtds-to-polybolt",
+      "path": "cn/migrate/rtds-to-polybolt.md",
+      "title": "从 RTDS 迁移到 PolyBolt",
+      "section": "Çince Dokümanlar",
+      "bytes": 24726,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/polymarket-101",
+      "path": "cn/polymarket-101.md",
+      "title": "Polymarket 101",
+      "section": "Çince Dokümanlar",
+      "bytes": 5035,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/builders/fees",
+      "path": "cn/programs/builders/fees.md",
+      "title": "Builder 费用",
+      "section": "Çince Dokümanlar",
+      "bytes": 6244,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/builders/overview",
+      "path": "cn/programs/builders/overview.md",
+      "title": "概览",
+      "section": "Çince Dokümanlar",
+      "bytes": 2766,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/builders/tiers",
+      "path": "cn/programs/builders/tiers.md",
+      "title": "Tiers",
+      "section": "Çince Dokümanlar",
+      "bytes": 4801,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/liquidity-rewards",
+      "path": "cn/programs/liquidity-rewards.md",
+      "title": "流动性奖励",
+      "section": "Çince Dokümanlar",
+      "bytes": 6808,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/maker-rebates",
+      "path": "cn/programs/maker-rebates.md",
+      "title": "Maker 返利计划",
+      "section": "Çince Dokümanlar",
+      "bytes": 4469,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/referral-program",
+      "path": "cn/programs/referral-program.md",
+      "title": "推荐计划",
+      "section": "Çince Dokümanlar",
+      "bytes": 4408,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/programs/taker-rebates",
+      "path": "cn/programs/taker-rebates.md",
+      "title": "Taker 返利计划",
+      "section": "Çince Dokümanlar",
+      "bytes": 6803,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/resources/blockchain-data",
+      "path": "cn/resources/blockchain-data.md",
+      "title": "区块链数据",
+      "section": "Çince Dokümanlar",
+      "bytes": 3178,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/resources/contracts",
+      "path": "cn/resources/contracts.md",
+      "title": "合约",
+      "section": "Çince Dokümanlar",
+      "bytes": 8532,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/resources/error-codes",
+      "path": "cn/resources/error-codes.md",
+      "title": "错误码",
+      "section": "Çince Dokümanlar",
+      "bytes": 14180,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/resources/onchain-position-data",
+      "path": "cn/resources/onchain-position-data.md",
+      "title": "链上持仓数据",
+      "section": "Çince Dokümanlar",
+      "bytes": 12398,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/bridge/deposit",
+      "path": "cn/trading/bridge/deposit.md",
+      "title": "存款",
+      "section": "Çince Dokümanlar",
+      "bytes": 3909,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/bridge/quote",
+      "path": "cn/trading/bridge/quote.md",
+      "title": "报价",
+      "section": "Çince Dokümanlar",
+      "bytes": 3450,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/bridge/status",
+      "path": "cn/trading/bridge/status.md",
+      "title": "交易状态",
+      "section": "Çince Dokümanlar",
+      "bytes": 4287,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/bridge/supported-assets",
+      "path": "cn/trading/bridge/supported-assets.md",
+      "title": "受支持资产",
+      "section": "Çince Dokümanlar",
+      "bytes": 2433,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/bridge/withdraw",
+      "path": "cn/trading/bridge/withdraw.md",
+      "title": "提款",
+      "section": "Çince Dokümanlar",
+      "bytes": 4142,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/combos/market-makers",
+      "path": "cn/trading/combos/market-makers.md",
+      "title": "做市商",
+      "section": "Çince Dokümanlar",
+      "bytes": 111125,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/combos/overview",
+      "path": "cn/trading/combos/overview.md",
+      "title": "Combos 的运作方式",
+      "section": "Çince Dokümanlar",
+      "bytes": 2664,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/fees",
+      "path": "cn/trading/fees.md",
+      "title": "费用",
+      "section": "Çince Dokümanlar",
+      "bytes": 5587,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/manage-orders",
+      "path": "cn/trading/manage-orders.md",
+      "title": "管理订单",
+      "section": "Çince Dokümanlar",
+      "bytes": 48775,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/market-making",
+      "path": "cn/trading/market-making.md",
+      "title": "做市",
+      "section": "Çince Dokümanlar",
+      "bytes": 7029,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/matching-engine",
+      "path": "cn/trading/matching-engine.md",
+      "title": "撮合引擎重启",
+      "section": "Çince Dokümanlar",
+      "bytes": 6484,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/overview",
+      "path": "cn/trading/overview.md",
+      "title": "概览",
+      "section": "Çince Dokümanlar",
+      "bytes": 1502,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/place-orders",
+      "path": "cn/trading/place-orders.md",
+      "title": "下单",
+      "section": "Çince Dokümanlar",
+      "bytes": 52199,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/positions/combinatorial",
+      "path": "cn/trading/positions/combinatorial.md",
+      "title": "组合持仓",
+      "section": "Çince Dokümanlar",
+      "bytes": 3083,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/positions/how-positions-work",
+      "path": "cn/trading/positions/how-positions-work.md",
+      "title": "持仓运作方式",
+      "section": "Çince Dokümanlar",
+      "bytes": 3792,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/positions/manage",
+      "path": "cn/trading/positions/manage.md",
+      "title": "管理持仓",
+      "section": "Çince Dokümanlar",
+      "bytes": 11075,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/quickstart",
+      "path": "cn/trading/quickstart.md",
+      "title": "下第一笔订单",
+      "section": "Çince Dokümanlar",
+      "bytes": 5407,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/realtime-order-updates",
+      "path": "cn/trading/realtime-order-updates.md",
+      "title": "实时订单更新",
+      "section": "Çince Dokümanlar",
+      "bytes": 13521,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/wallet-activity",
+      "path": "cn/trading/wallet-activity.md",
+      "title": "钱包活动",
+      "section": "Çince Dokümanlar",
+      "bytes": 39084,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/cn/trading/wallets-auth",
+      "path": "cn/trading/wallets-auth.md",
+      "title": "钱包与身份验证",
+      "section": "Çince Dokümanlar",
+      "bytes": 47012,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/markets-events",
+      "path": "concepts/markets-events.md",
+      "title": "Markets & Events",
+      "section": "concepts",
+      "bytes": 3828,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/negative-risk",
+      "path": "concepts/negative-risk.md",
+      "title": "Negative Risk Markets",
+      "section": "concepts",
+      "bytes": 3062,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/order-lifecycle",
+      "path": "concepts/order-lifecycle.md",
+      "title": "Order Lifecycle",
+      "section": "concepts",
+      "bytes": 6408,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/positions-tokens",
+      "path": "concepts/positions-tokens.md",
+      "title": "Positions & Tokens",
+      "section": "concepts",
+      "bytes": 4067,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/prices-orderbook",
+      "path": "concepts/prices-orderbook.md",
+      "title": "Prices & Orderbook",
+      "section": "concepts",
+      "bytes": 4117,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/pusd",
+      "path": "concepts/pusd.md",
+      "title": "Polymarket USD",
+      "section": "concepts",
+      "bytes": 5083,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/concepts/resolution",
+      "path": "concepts/resolution.md",
+      "title": "Resolution",
+      "section": "concepts",
+      "bytes": 6230,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/getting-started/api",
+      "path": "getting-started/api.md",
+      "title": "API",
+      "section": "getting-started",
+      "bytes": 7589,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/getting-started/python",
+      "path": "getting-started/python.md",
+      "title": "Python SDK",
+      "section": "getting-started",
+      "bytes": 9484,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/getting-started/sdks-apis",
+      "path": "getting-started/sdks-apis.md",
+      "title": "SDKs & APIs",
+      "section": "getting-started",
+      "bytes": 1600,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/getting-started/typescript",
+      "path": "getting-started/typescript.md",
+      "title": "TypeScript SDK",
+      "section": "getting-started",
+      "bytes": 9018,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com",
+      "path": "index.md",
+      "title": "Overview",
+      "section": "Genel",
+      "bytes": 2616,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/discover-markets",
+      "path": "market-data/discover-markets.md",
+      "title": "Discover Markets",
+      "section": "market-data",
+      "bytes": 59303,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/market-details",
+      "path": "market-data/market-details.md",
+      "title": "Market Details",
+      "section": "market-data",
+      "bytes": 27367,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/overview",
+      "path": "market-data/overview.md",
+      "title": "Overview",
+      "section": "market-data",
+      "bytes": 2179,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/prices-order-books",
+      "path": "market-data/prices-order-books.md",
+      "title": "Prices and Order Books",
+      "section": "market-data",
+      "bytes": 35267,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/public-analytics",
+      "path": "market-data/public-analytics.md",
+      "title": "Analytics",
+      "section": "market-data",
+      "bytes": 44751,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/market-data/realtime-data",
+      "path": "market-data/realtime-data.md",
+      "title": "Real-Time Data",
+      "section": "market-data",
+      "bytes": 61951,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/clob-sdk-to-unified-sdk",
+      "path": "migrate/clob-sdk-to-unified-sdk.md",
+      "title": "Migrate from Legacy SDKs to Unified SDKs",
+      "section": "migrate",
+      "bytes": 58091,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/data-api-v1-to-v2",
+      "path": "migrate/data-api-v1-to-v2.md",
+      "title": "Migrate from Data API v1 to v2",
+      "section": "migrate",
+      "bytes": 5069,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/polymarket-v2/api-integrations",
+      "path": "migrate/polymarket-v2/api-integrations.md",
+      "title": "Polymarket Protocol V2 API Migration",
+      "section": "migrate",
+      "bytes": 4940,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/polymarket-v2/contract-integrations",
+      "path": "migrate/polymarket-v2/contract-integrations.md",
+      "title": "Polymarket Protocol V2 Contract Migration",
+      "section": "migrate",
+      "bytes": 3883,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/polymarket-v2/overview",
+      "path": "migrate/polymarket-v2/overview.md",
+      "title": "Migrate to Polymarket Protocol V2",
+      "section": "migrate",
+      "bytes": 2512,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/polymarket-v2/sdk-integrations",
+      "path": "migrate/polymarket-v2/sdk-integrations.md",
+      "title": "Polymarket Protocol V2 SDK Migration",
+      "section": "migrate",
+      "bytes": 5890,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/migrate/rtds-to-polybolt",
+      "path": "migrate/rtds-to-polybolt.md",
+      "title": "Migrate from RTDS to PolyBolt",
+      "section": "migrate",
+      "bytes": 25974,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/nex/connect",
+      "path": "nex/connect.md",
+      "title": "Connect to NEX",
+      "section": "nex",
+      "bytes": 2859,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/nex/get-access",
+      "path": "nex/get-access.md",
+      "title": "Get Access",
+      "section": "nex",
+      "bytes": 1445,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/nex/overview",
+      "path": "nex/overview.md",
+      "title": "NEX Sandbox",
+      "section": "nex",
+      "bytes": 1820,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/nex/start-trading",
+      "path": "nex/start-trading.md",
+      "title": "Start Trading",
+      "section": "nex",
+      "bytes": 13284,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/nex/websocket-feeds",
+      "path": "nex/websocket-feeds.md",
+      "title": "WebSocket Feeds",
+      "section": "nex",
+      "bytes": 1824,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/partners/overview",
+      "path": "partners/overview.md",
+      "title": "Institutional Overview",
+      "section": "partners",
+      "bytes": 2406,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/partners/rfq-trades",
+      "path": "partners/rfq-trades.md",
+      "title": "RFQ Trades Partner API",
+      "section": "partners",
+      "bytes": 44555,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/account-management",
+      "path": "perps/account-management.md",
+      "title": "Account Management",
+      "section": "perps",
+      "bytes": 46483,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/authenticated-sessions",
+      "path": "perps/authenticated-sessions.md",
+      "title": "Authenticated Sessions",
+      "section": "perps",
+      "bytes": 18405,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/builder-codes",
+      "path": "perps/builder-codes.md",
+      "title": "Builder Codes",
+      "section": "perps",
+      "bytes": 81659,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/concepts",
+      "path": "perps/concepts.md",
+      "title": "Concepts",
+      "section": "perps",
+      "bytes": 7592,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/errors",
+      "path": "perps/errors.md",
+      "title": "Errors",
+      "section": "perps",
+      "bytes": 14002,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/faq",
+      "path": "perps/faq.md",
+      "title": "FAQ",
+      "section": "perps",
+      "bytes": 13939,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/fund-your-account",
+      "path": "perps/fund-your-account.md",
+      "title": "Fund Your Account",
+      "section": "perps",
+      "bytes": 34855,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/architecture",
+      "path": "perps/learn-about-trading/architecture.md",
+      "title": "Architecture",
+      "section": "perps",
+      "bytes": 2003,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/fees",
+      "path": "perps/learn-about-trading/fees.md",
+      "title": "Fees",
+      "section": "perps",
+      "bytes": 3065,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/funding",
+      "path": "perps/learn-about-trading/funding.md",
+      "title": "Funding",
+      "section": "perps",
+      "bytes": 3726,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/index-price",
+      "path": "perps/learn-about-trading/index-price.md",
+      "title": "Index Price",
+      "section": "perps",
+      "bytes": 1047,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/liquidation-mechanics",
+      "path": "perps/learn-about-trading/liquidation-mechanics.md",
+      "title": "Liquidation Mechanics",
+      "section": "perps",
+      "bytes": 6909,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/margin",
+      "path": "perps/learn-about-trading/margin.md",
+      "title": "Margin",
+      "section": "perps",
+      "bytes": 9106,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/mark-price",
+      "path": "perps/learn-about-trading/mark-price.md",
+      "title": "Mark Price",
+      "section": "perps",
+      "bytes": 3088,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/market-sessions",
+      "path": "perps/learn-about-trading/market-sessions.md",
+      "title": "Market Sessions",
+      "section": "perps",
+      "bytes": 1696,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/markets",
+      "path": "perps/learn-about-trading/markets.md",
+      "title": "Markets",
+      "section": "perps",
+      "bytes": 1468,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/markets/pre-ipo-anthropic",
+      "path": "perps/learn-about-trading/markets/pre-ipo-anthropic.md",
+      "title": "Anthropic (ANT): Pre-IPO Specifications",
+      "section": "perps",
+      "bytes": 11634,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/overview",
+      "path": "perps/learn-about-trading/overview.md",
+      "title": "Overview",
+      "section": "perps",
+      "bytes": 1444,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/learn-about-trading/self-trade-prevention",
+      "path": "perps/learn-about-trading/self-trade-prevention.md",
+      "title": "Self-Trade Prevention",
+      "section": "perps",
+      "bytes": 3479,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/liquidity-rewards",
+      "path": "perps/liquidity-rewards.md",
+      "title": "Liquidity Rewards",
+      "section": "perps",
+      "bytes": 4884,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/market-data",
+      "path": "perps/market-data.md",
+      "title": "Market Data",
+      "section": "perps",
+      "bytes": 29990,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/notifications",
+      "path": "perps/notifications.md",
+      "title": "Notifications",
+      "section": "perps",
+      "bytes": 28335,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/overview",
+      "path": "perps/overview.md",
+      "title": "Overview",
+      "section": "perps",
+      "bytes": 2574,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/place-your-first-trade",
+      "path": "perps/place-your-first-trade.md",
+      "title": "Place Your First Trade",
+      "section": "perps",
+      "bytes": 6674,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/realtime-updates",
+      "path": "perps/realtime-updates.md",
+      "title": "Realtime Updates",
+      "section": "perps",
+      "bytes": 26216,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/referral-program",
+      "path": "perps/referral-program.md",
+      "title": "Referral Program",
+      "section": "perps",
+      "bytes": 3399,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/trading-competitions",
+      "path": "perps/trading-competitions.md",
+      "title": "Trading Competitions",
+      "section": "perps",
+      "bytes": 3997,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/perps/trading",
+      "path": "perps/trading.md",
+      "title": "Trading",
+      "section": "perps",
+      "bytes": 105768,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/polymarket-101",
+      "path": "polymarket-101.md",
+      "title": "Polymarket 101",
+      "section": "Genel",
+      "bytes": 5314,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/builders/fees",
+      "path": "programs/builders/fees.md",
+      "title": "Builder Fees",
+      "section": "programs",
+      "bytes": 6094,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/builders/overview",
+      "path": "programs/builders/overview.md",
+      "title": "Overview",
+      "section": "programs",
+      "bytes": 2844,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/builders/tiers",
+      "path": "programs/builders/tiers.md",
+      "title": "Tiers",
+      "section": "programs",
+      "bytes": 4900,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/liquidity-rewards",
+      "path": "programs/liquidity-rewards.md",
+      "title": "Liquidity Rewards",
+      "section": "programs",
+      "bytes": 15167,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/maker-rebates",
+      "path": "programs/maker-rebates.md",
+      "title": "Maker Rebates Program",
+      "section": "programs",
+      "bytes": 8019,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/referral-program",
+      "path": "programs/referral-program.md",
+      "title": "Referral Program",
+      "section": "programs",
+      "bytes": 4859,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/programs/taker-rebates",
+      "path": "programs/taker-rebates.md",
+      "title": "Taker Rebate Program",
+      "section": "programs",
+      "bytes": 9768,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/resources/blockchain-data",
+      "path": "resources/blockchain-data.md",
+      "title": "Data Resources",
+      "section": "resources",
+      "bytes": 3711,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/resources/contracts",
+      "path": "resources/contracts.md",
+      "title": "Contracts",
+      "section": "resources",
+      "bytes": 15276,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/resources/error-codes",
+      "path": "resources/error-codes.md",
+      "title": "Error Codes",
+      "section": "resources",
+      "bytes": 14901,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/resources/onchain-position-data",
+      "path": "resources/onchain-position-data.md",
+      "title": "Onchain Position Data",
+      "section": "resources",
+      "bytes": 13287,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/bridge/deposit",
+      "path": "trading/bridge/deposit.md",
+      "title": "Deposit",
+      "section": "trading",
+      "bytes": 3952,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/bridge/quote",
+      "path": "trading/bridge/quote.md",
+      "title": "Quote",
+      "section": "trading",
+      "bytes": 3588,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/bridge/status",
+      "path": "trading/bridge/status.md",
+      "title": "Transaction Status",
+      "section": "trading",
+      "bytes": 4507,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/bridge/supported-assets",
+      "path": "trading/bridge/supported-assets.md",
+      "title": "Supported Assets",
+      "section": "trading",
+      "bytes": 2501,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/bridge/withdraw",
+      "path": "trading/bridge/withdraw.md",
+      "title": "Withdraw",
+      "section": "trading",
+      "bytes": 4551,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/combos/builders",
+      "path": "trading/combos/builders.md",
+      "title": "Combos for Builders",
+      "section": "trading",
+      "bytes": 27646,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/combos/collateral-return",
+      "path": "trading/combos/collateral-return.md",
+      "title": "Collateral Return",
+      "section": "trading",
+      "bytes": 37015,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/combos/market-makers",
+      "path": "trading/combos/market-makers.md",
+      "title": "Market Makers",
+      "section": "trading",
+      "bytes": 118779,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/combos/overview",
+      "path": "trading/combos/overview.md",
+      "title": "How Combos Work",
+      "section": "trading",
+      "bytes": 2861,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/combos/requesters",
+      "path": "trading/combos/requesters.md",
+      "title": "Requesters",
+      "section": "trading",
+      "bytes": 19847,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/fees",
+      "path": "trading/fees.md",
+      "title": "Fees",
+      "section": "trading",
+      "bytes": 5695,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/manage-orders",
+      "path": "trading/manage-orders.md",
+      "title": "Manage Orders",
+      "section": "trading",
+      "bytes": 53057,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/market-making",
+      "path": "trading/market-making.md",
+      "title": "Market Making",
+      "section": "trading",
+      "bytes": 7469,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/matching-engine",
+      "path": "trading/matching-engine.md",
+      "title": "Matching Engine Restarts",
+      "section": "trading",
+      "bytes": 11711,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/overview",
+      "path": "trading/overview.md",
+      "title": "Overview",
+      "section": "trading",
+      "bytes": 1716,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/place-orders",
+      "path": "trading/place-orders.md",
+      "title": "Place Orders",
+      "section": "trading",
+      "bytes": 53106,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/positions/combinatorial",
+      "path": "trading/positions/combinatorial.md",
+      "title": "Combinatorial Positions",
+      "section": "trading",
+      "bytes": 3082,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/positions/how-positions-work",
+      "path": "trading/positions/how-positions-work.md",
+      "title": "How Positions Work",
+      "section": "trading",
+      "bytes": 5729,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/positions/manage",
+      "path": "trading/positions/manage.md",
+      "title": "Manage Positions",
+      "section": "trading",
+      "bytes": 24364,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/quickstart",
+      "path": "trading/quickstart.md",
+      "title": "Place Your First Order",
+      "section": "trading",
+      "bytes": 5922,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/realtime-order-updates",
+      "path": "trading/realtime-order-updates.md",
+      "title": "Real-Time Order Updates",
+      "section": "trading",
+      "bytes": 13835,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/session-keys",
+      "path": "trading/session-keys.md",
+      "title": "Session Keys",
+      "section": "trading",
+      "bytes": 50925,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/wallet-activity",
+      "path": "trading/wallet-activity.md",
+      "title": "Wallet Activity",
+      "section": "trading",
+      "bytes": 40512,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/trading/wallets-auth",
+      "path": "trading/wallets-auth.md",
+      "title": "Wallets and Authentication",
+      "section": "trading",
+      "bytes": 49516,
+      "ok": true,
+      "resumed": true
+    },
+    {
+      "url": "https://docs.polymarket.com/v2-migration",
+      "path": "v2-migration.md",
+      "title": "Migrating to CLOB V2",
+      "section": "Genel",
+      "bytes": 22981,
+      "ok": true,
+      "resumed": true
+    }
+  ]
+}
